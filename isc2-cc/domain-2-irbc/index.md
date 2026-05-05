@@ -2,11 +2,11 @@
 Status: #InProgress
 
 ## Topics
-- [Incident Terminology](isc2-cc/domain-2-irbc/incident-terms.md)
-- [BCP(Business Continuity Plan)](isc2-cc/domain-2-irbc/business-continuity-plan.md)
-- [IRP(Incident Response Plan)](isc2-cc/domain-2-irbc/incident-response-plan.md)
-- [DRP(Disaster Recovery Plan)](isc2-cc/domain-2-irbc/disaster-recovery-plan.md)
+- [Incident Terminology](incident-terms.md)
+- [BCP(Business Continuity Plan)](business-continuity-plan.md)
+- [IRP(Incident Response Plan)](incident-response-plan.md)
+- [DRP(Disaster Recovery Plan)](disaster-recovery-plan.md)
  
 ## See also
-- [ISC2-CC](isc2-cc/index.md)
+- [ISC2-CC](../index.md)
 - [Comparisons](comparisons/index.md)

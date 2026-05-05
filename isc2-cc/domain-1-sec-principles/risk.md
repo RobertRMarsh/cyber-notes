@@ -13,5 +13,5 @@ Status: #InProgress
  - A *Threat* is something/someone who aims to exploit a vulnerability to thwart protection efforts
  
 ## See also
-- [Security Principles](isc2-cc/domain-1-sec-principles/index.md)
+- [Security Principles](index.md)
 - [Comparisons](comparisons/index.md)

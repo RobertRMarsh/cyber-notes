@@ -18,5 +18,5 @@ Status: #InProgress
 - DRP is about restoring IT and Comms
  
 ## See also
-- [Business Continuity & DR](isc2-cc/domain-2-irbc/index.md)
+- [Business Continuity & DR](index.md)
 - [Comparisons](comparisons/index.md)

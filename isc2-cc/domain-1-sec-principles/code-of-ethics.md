@@ -9,5 +9,5 @@ Status: #done
 - Advance and protect the profession
  
 ## See also
-- [Security Principles](domain-1-sec-principles/index.md)
+- [Security Principles](index.md)
 - [Comparisons](comparisons/index.md)

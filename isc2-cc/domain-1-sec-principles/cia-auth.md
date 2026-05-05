@@ -16,5 +16,5 @@ Status: #InProgress
 - *Something you are*, biometrics like; retina, finger, and palm scanners
  
 ## See also
-- [Security Principles](isc2-cc/domain-1-sec-principles/index.md)
+- [Security Principles](index.md)
 - [Comparisons](comparisons/index.md)

@@ -34,5 +34,5 @@ Status: #InProgress
 - conduct a retrospective of this and all previous steps
 
 ## See also
-- [Business Continuity & DR](isc2-cc/domain-2-irbc/index.md)
+- [Business Continuity & DR](index.md)
 - [Comparisons](comparisons/index.md)
