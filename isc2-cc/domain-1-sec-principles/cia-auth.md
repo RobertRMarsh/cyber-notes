@@ -9,11 +9,22 @@ Status: #InProgress
 - any data about an individual that can be used to identify them
 ##### PHI(Protected Health Information)
 - info regarding ones health, classified or sensitive information
-##### Sensi
+##### Sensitivity
+- measure of importance assigned to info by the owner
 #### Integrity
 - is ensuring data/systems consistency, accuracy and completeness for a stated purpose
+##### Data Integrity
+- assurance data has not been altered unauthorized 
+##### System Integrity
+- maintenance of known good config
+- ensuring requires awareness of the *State*
+	- current condition of the system
+- *baseline* is the State at a certain point in time 
 #### Accessibility 
 - is ensuring the access to data/systems when users need them 
+- associated with *Criticality*
+##### Criticality 
+- importance an org assigns to data 
 ### Authentication
 - Process of verifying or proving a user's identity
 - needed to ensure confidentiality so you know someone is who they say they are
