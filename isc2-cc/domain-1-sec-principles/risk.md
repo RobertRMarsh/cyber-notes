@@ -17,10 +17,25 @@ Status: #InProgress
 ### Risk Priorities
 - often prioritized through a *risk matrix*
 	- a grid of low to high impact one one axis, and low to high probability one another
-#### Qualitative risk analysis
-- 
-#### Quantitively risk analysis
-- 
+- done through two main methods of analysis
+	- qualitative risk analysis 
+	- quantitively risk analysis
+### Risk Treatment
+- decision making about the best action to take from a prioritized and identified risk
+#### Risk Management Types
+##### Avoidance
+- attempting to remove a risk entirely
+- in cases like power loss or SPII protection
+##### Acceptance
+- not attempting to remove a risk at all
+- usually due to low likelihood/impact 
+##### Mitigation
+- most common type of risk management
+- taking actions to prevent/mitigate impact
+##### Transfer
+- process of passing risk to another party
+- avoids financial risk of harm in exchange for payment 
+- i.e. insurance
  
 ## See also
 - [Security Principles](index.md)

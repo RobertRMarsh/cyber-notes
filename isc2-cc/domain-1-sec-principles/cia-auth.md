@@ -25,6 +25,7 @@ Status: #InProgress
 - inability to deny taking an action
 - ensure responsibility for one's decisions
 - rely on the authentication of one's identity
+
 ## See also
 - [Security Principles](index.md)
 - [Comparisons](comparisons/index.md)
