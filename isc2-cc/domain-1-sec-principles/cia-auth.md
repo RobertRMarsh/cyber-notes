@@ -14,7 +14,17 @@ Status: #InProgress
 - *Something you know*, passwords or passcodes
 - *Something you have*, access cards or badges
 - *Something you are*, biometrics like; retina, finger, and palm scanners
- 
+###### Types of Authentication
+- SFA(single-factor authentication)*
+- MFA(multi-factor authentication)*
+##### Common examples of Authentication
+- ATMS require;
+	- Your Card, *Something you have*
+	- Your PIN, *Something you know*
+#### Non-repudiation
+- inability to deny taking an action
+- ensure responsibility for one's decisions
+- rely on the authentication of one's identity
 ## See also
 - [Security Principles](index.md)
 - [Comparisons](comparisons/index.md)
