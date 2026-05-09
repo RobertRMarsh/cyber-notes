@@ -15,8 +15,8 @@ Status: #InProgress
 - *Something you have*, access cards or badges
 - *Something you are*, biometrics like; retina, finger, and palm scanners
 ###### Types of Authentication
-- SFA(single-factor authentication)*
-- MFA(multi-factor authentication)*
+- *SFA(single-factor authentication)*, one method of authentication
+- *MFA(multi-factor authentication)*, multiple methods of authentication
 ##### Common examples of Authentication
 - ATMS require;
 	- Your Card, *Something you have*
