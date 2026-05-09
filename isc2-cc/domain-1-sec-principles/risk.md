@@ -7,6 +7,8 @@ Status: #InProgress
 - defined as how acceptable a risk is to an organization
 	- losing a lawsuit might be acceptable
 	- a hospital losing power is not
+- *Risk Appetite*
+	- how much risk a org can stomach
 ### Risk Identification 
 - Identifying risk allows for clear communication of that risk
 - Employees at all levels of an org are responsible for risk identification
@@ -36,7 +38,12 @@ Status: #InProgress
 - process of passing risk to another party
 - avoids financial risk of harm in exchange for payment 
 - i.e. insurance
- 
+### Risk Assessment
+- analysis preformed as part of risk management 
+- incorporates threat and vulnerability analyses 
+- identifying, estimating, and prioritizing risks to org operations
+- presented as a report/presentation to management
+
 ## See also
 - [Security Principles](index.md)
 - [Comparisons](comparisons/index.md)

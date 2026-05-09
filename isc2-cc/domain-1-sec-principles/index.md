@@ -6,6 +6,7 @@ Status: #InProgress
 - [Code of Ethics](code-of-ethics.md)
 - [Risk](risk.md)
 - [CIA Triad & Authentication](cia-auth.md)
+- [Security Controls](sec-controls.md)
 
 ## See also
 - [ISC2-CC](../index.md)
