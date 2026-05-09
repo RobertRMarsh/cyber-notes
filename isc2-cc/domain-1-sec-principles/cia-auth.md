@@ -3,10 +3,18 @@ Status: #InProgress
 
 ## Notes
 ### CIA Triad
-- *Confidentiality* is ensuring only authorized and authenticated users have access to information, while protecting it from improper disclosure
-- *Integrity* is ensuring data/systems consistency, accuracy and completeness for a stated purpose
-- *Accessibility* is ensuring the access to data/systems when users need them 
-#### Authentication
+#### Confidentiality 
+- is ensuring only authorized and authenticated users have access to information, while protecting it from improper disclosure
+##### PII(Personally Identifiable Information)
+- any data about an individual that can be used to identify them
+##### PHI(Protected Health Information)
+- info regarding ones health, classified or sensitive information
+##### Sensi
+#### Integrity
+- is ensuring data/systems consistency, accuracy and completeness for a stated purpose
+#### Accessibility 
+- is ensuring the access to data/systems when users need them 
+### Authentication
 - Process of verifying or proving a user's identity
 - needed to ensure confidentiality so you know someone is who they say they are
 - also ensures *non-repudiation* is possible because if there is proof someone is who they are, they cannot claim that they did not do something
@@ -21,7 +29,7 @@ Status: #InProgress
 - ATMS require;
 	- Your Card, *Something you have*
 	- Your PIN, *Something you know*
-#### Non-repudiation
+### Non-repudiation
 - inability to deny taking an action
 - ensure responsibility for one's decisions
 - rely on the authentication of one's identity

@@ -5,6 +5,14 @@ Status: #InProgress
 ### Security Controls
 - mechanisms that act as safeguards to protect CIA of systems/info
 #### Physical Controls
+- address security needs using physical hardware devices
+- often supported by technical controls
+#### Technical Controls
+- also called *Logical Controls*
+- controls implemented directly by computers & networks
+#### Administrative Controls
+- also called *Managerial Controls*
+- policies/guidelines 
 ## See also
 - [Security Principles](index.md)
 - [Comparisons](comparisons/index.md)
