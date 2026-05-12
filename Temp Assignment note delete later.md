@@ -123,6 +123,11 @@
 - development of events as each era shifted and impacted the next:
 	- strikes by vast majority of plebians vs patricians leading to increase in oppurtunities for plebians 
 	- conquered macedonia and hellenistic kingdoms after 3rd punic war
+	- war ridden and tired republic struggled as some areas were more damaged than others
+	- dictators took over periodically and numerous civil wars occured
+	- julius caeser took over as dictator and turned the role into what we known today
+	- octavian caesers adopted son rose to power after triumvirate fell out and revenge on the liberators who killed caeser
+	- octavian got title of augustus (revered) marking the end of the republic 
 ###### Empire
 - how did the culture spread and develop, innovations and distinctive characteristics of the era:
 	- 
