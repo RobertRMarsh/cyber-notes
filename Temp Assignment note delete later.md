@@ -26,8 +26,6 @@
 	- 
 ##### Hellenic
 ###### The Dark Age
-###### The Archaic age
-###### The Classical Period
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
 	- 
 - key figures in this period:
@@ -36,7 +34,25 @@
 	- 
 - development of events as each era shifted and impacted the next 
 	- 
-###### Hellenistic
+###### The Archaic age
+- how did the culture spread and develop, innovations and distinctive characteristics of the era: 
+	- 
+- key figures in this period:
+	- 
+- significant cultural establishments:
+	- 
+- development of events as each era shifted and impacted the next 
+	- 
+###### The Classical Period
+- how did the culture spread and develop, innovations and distinctive characteristics of the era: 
+	- 
+- key figures in this period:
+	- 
+- significant cultural establishments:
+	- 
+- development of events as each era shifted and impacted the next 
+	- Death of Alexander the Great
+##### Hellenistic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
 	- 
 - key figures in this period: 
