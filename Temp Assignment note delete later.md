@@ -23,17 +23,21 @@
 	- mycenaeans(mainland greece) and minoans(crete)
 - significant cultural establishments:
 	- minoans(crete) thriving kingdom though seperate from greeks culturally, similar to king minos, where the got their name
-	- mycenaeans(mainland greece) language 
+	- mycenaeans(mainland greece) precursors to the greeks with societies at athens and thebes mycenae
 - development of events as each era shifted and impacted the next:
-	- 
+	- initally peace and trade between two kingdoms, then natural disasters and wars leading to both societies collapse and the oncoming of the dark age
 ##### Hellenic
 ###### The Dark Age
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-	- 
+	- Dorians who spread early western influence along Mediterranean sea
+	- ceasing of cultural development of their predecessors 
+	- abandon kingdoms and trade
 - key figures in this period:
-	- 
+	- Dorians 
 - significant cultural establishments:
-	- 
+	- polis (city-state)
+	- metropolis (mothercity)
+		- main two were sparta 
 - development of events as each era shifted and impacted the next 
 	- 
 ###### The Archaic age
