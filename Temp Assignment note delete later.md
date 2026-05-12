@@ -16,35 +16,61 @@
 ##### Greek page
 ###### Helladic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-- key figures in this period: 
+	- 
+- key figures in this period:
+	- 
 - significant cultural establishments:
-- development of events as each era shifted and impacted the next 
+	- 
+- development of events as each era shifted and impacted the next:
+	- 
 ###### Hellenic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-- key figures in this period: 
+	- 
+- key figures in this period:
+	- 
 - significant cultural establishments:
+	- 
 - development of events as each era shifted and impacted the next 
+	- 
 ###### Hellenistic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
+	- 
 - key figures in this period: 
+	-
 - significant cultural establishments:
-- development of events as each era shifted and impacted the next 
+	- 
+- development of events as each era shifted and impacted the next:
+	- 
 ##### Roman Page
 ###### Kingdom
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
+	- 
 - key figures in this period: 
+	- 
 - significant cultural establishments:
-- development of events as each era shifted and impacted the next 
+	- 
+- development of events as each era shifted and impacted the next:
+	- 
 ###### Republic
-- how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-- key figures in this period: 
+- how did the culture spread and develop, innovations and distinctive characteristics of the era:
+	- 
+- key figures in this period:
+	- 
 - significant cultural establishments:
-- development of events as each era shifted and impacted the next 
+	- 
+- development of events as each era shifted and impacted the next:
+	- 
 ###### Empire
-- how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-- key figures in this period: 
+- how did the culture spread and develop, innovations and distinctive characteristics of the era:
+	- 
+- key figures in this period:
+	- 
 - significant cultural establishments:
-- development of events as each era shifted and impacted the next 
+	- 
+- development of events as each era shifted and impacted the next:
+	- 
 ##### Reference page
-- one reference 
 
+Rome in the Ancient World: From Romulus to Justinian. (2009, December 22). _Contemporary Review_, _291_(1695), 534.
+
+Van Wees, H. (1997). Ancient Greece: From Prehistoric to Hellenistic Times. _Greece & Rome_, _44_(2), 227.
