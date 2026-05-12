@@ -17,11 +17,13 @@
 ##### Helladic
 ###### The Bronze age
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-	- 
+	- arts and crafts based around religion and nature
+	- volcanic activity during this time around crete
 - key figures in this period:
-	- 
+	- mycenaeans(mainland greece) and minoans(crete)
 - significant cultural establishments:
-	- 
+	- minoans(crete) thriving kingdom though seperate from greeks culturally, similar to king minos, where the got their name
+	- mycenaeans(mainland greece) language 
 - development of events as each era shifted and impacted the next:
 	- 
 ##### Hellenic
@@ -60,7 +62,7 @@
 - significant cultural establishments:
 	- 
 - development of events as each era shifted and impacted the next:
-	- 
+	- ending with the rise of the roman empires influence across europe
 ##### Roman Page
 ###### Kingdom
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
