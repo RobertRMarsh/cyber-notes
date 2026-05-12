@@ -101,22 +101,28 @@
 ##### Roman Page
 ###### Kingdom
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-	- 
+	- formation of kingdoms from tribes
 - key figures in this period: 
-	- 
+	- estruscan kingdom, overthrown by roman tribes
 - significant cultural establishments:
 	- the kingdom, as the tribes fell 
 - development of events as each era shifted and impacted the next:
 	- revolts against the tribal kingdoms influencial families led to a republic by the people for the people  
 ###### Republic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era:
-	- 
+	- patricians, decendant of those who helped overthrow the kingdoms
+	- plebians, common person
+	- constant war and expanse, butting heads with carthage 
+		- punic wars 
 - key figures in this period:
-	- 
+	- carthage 
 - significant cultural establishments:
 	- the Senate which stuck around even after the republics collapse and the empire was formed 
+	- havy greek influence around arts leasure 
+	- legalization of marriage across classes
 - development of events as each era shifted and impacted the next:
-	- 
+	- strikes by vast majority of plebians vs patricians leading to increase in oppurtunities for plebians 
+	- conquered macedonia and hellenistic kingdoms after 3rd punic war
 ###### Empire
 - how did the culture spread and develop, innovations and distinctive characteristics of the era:
 	- 
