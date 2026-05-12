@@ -11,10 +11,11 @@
 
 ##### Structure
 
-##### title page 
+#### title page 
 - "evolution of the ancient Greeks & the romans"
-##### Greek page
-###### Helladic
+#### Greek page
+##### Helladic
+###### The Bronze age
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
 	- 
 - key figures in this period:
@@ -23,7 +24,10 @@
 	- 
 - development of events as each era shifted and impacted the next:
 	- 
-###### Hellenic
+##### Hellenic
+###### The Dark Age
+###### The Archaic age
+###### The Classical Period
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
 	- 
 - key figures in this period:
