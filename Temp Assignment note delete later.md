@@ -64,6 +64,7 @@
 ###### The Classical Period
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
 	- persian wars shifted focus from inter-poleis conflict outward towards persia
+	- intermixing of greek influence with areas previously controlled by persia and beyond due to alexanders influence
 - key figures in this period:
 	- greeks and persia 
 	- sparta and athens
@@ -72,20 +73,27 @@
 - significant cultural establishments:
 	- greece winning persian war at plataea in 479
 	- Delian league, an attempt by athens to takeover the united greece
+	- alexander attacking persia 
 - development of events as each era shifted and impacted the next 
 	- fallout of sparta and athens leading to peloponnesian war
 	- spartan blockade starved athens
 	- thebans defeat sparta 
 	- Macedonians(Phillip II) then took over greece after beating both thebans and athens
-	- 2 years later 
+	- 2 years later alexander took over
 	- Death of Alexander the Great
 ##### Hellenistic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
+	- seperations of alexanders conquered lands between his generals
+		- ptolemy egypt, sleucus asiaminor-india, and antigonus macedonia
 	- 
 - key figures in this period: 
-	-
+	- alexanders wife and son who were killed 
+	- his generals
 - significant cultural establishments:
-	- 
+	- the seperation of alexanders domain lead to the immersion of greek culture in those areas
+	- city of alexandria and library of alexandria prior to romans burning it to the ground
+	- "Hellenization" adoption of gree culture and religion
+	- silk road stemming from the trade of the hellenistic cities
 - development of events as each era shifted and impacted the next:
 	- ending with the rise of the roman empires influence across europe
 ##### Roman Page
