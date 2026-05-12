@@ -36,17 +36,26 @@
 	- Dorians 
 - significant cultural establishments:
 	- polis (city-state)
+		- organized and defined by outlined segments
 	- metropolis (mothercity)
-		- main two were sparta 
+		- main two standouts were sparta and athens 
 - development of events as each era shifted and impacted the next 
-	- 
+	- rise of the polis
 ###### The Archaic age
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-	- 
+	- increase in acedemic exploration
+	- cultura
 - key figures in this period:
-	- 
+	- Socrates
+	- hippocrates
+	- democritus 
 - significant cultural establishments:
-	- 
+	- theatre
+	- marble columns temples
+	- sport and Olympics
+	- conceptualizing death human life, and nature 
+	- advancements in science
+	- Philosophy 
 - development of events as each era shifted and impacted the next 
 	- 
 ###### The Classical Period
