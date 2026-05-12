@@ -96,6 +96,8 @@
 	- silk road stemming from the trade of the hellenistic cities
 - development of events as each era shifted and impacted the next:
 	- ending with the rise of the roman empires influence across europe
+	- non greek people formed tribes outside of the lands alex once conquered
+		- some of the tribes along tigris river one day became rome 
 ##### Roman Page
 ###### Kingdom
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
@@ -103,16 +105,16 @@
 - key figures in this period: 
 	- 
 - significant cultural establishments:
-	- 
+	- the kingdom, as the tribes fell 
 - development of events as each era shifted and impacted the next:
-	- 
+	- revolts against the tribal kingdoms influencial families led to a republic by the people for the people  
 ###### Republic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era:
 	- 
 - key figures in this period:
 	- 
 - significant cultural establishments:
-	- 
+	- the Senate which stuck around even after the republics collapse and the empire was formed 
 - development of events as each era shifted and impacted the next:
 	- 
 ###### Empire
