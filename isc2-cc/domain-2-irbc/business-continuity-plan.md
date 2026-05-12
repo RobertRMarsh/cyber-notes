@@ -19,6 +19,8 @@ Status: #InProgress
 #### BIA (Business Impact Analysis)
 - Identifying functions and dependencies in org.
 - helps to flush out BCP
+### BC Emergency
+- for communication outages from cyber attacks related to critical infrastructure like hospitals military grade networks can be used to maintain essential activity
 
 ## See also
 - [Business Continuity & DR](index.md)

@@ -8,6 +8,7 @@ Status: #InProgress
 - A *Redbook* is a hard copy of IRP incase power is knocked out (kept outside facility)
 - All orgs must be prepared for incidents despite best efforts to avoid them
 - Priorities; protect life, health, safety, and always choose safety first
+- *intrusion* occurs when an external entity attempts unauthorized access to org IT environment 
 ### Components of an IRP 
 #### Preparation
 - developing a policy approved by management 
@@ -40,9 +41,10 @@ Status: #InProgress
 ##### CIRTs(Computer Incident Response Teams)
 ##### CSIRTS(Computer Security Incident Response Teams)
 ##### Main 4 responsibilities
-- determine the amount and scope
+- determine the amount and scope of the damage
 - determine if confidential information was compromised during the event 
-- implement nesse
+- implement necessary recovery procedures to restore security/restore incident related damage
+- supervise the implementation of any security measures necessary to improve security and prevent recurrence of the incident 
 
 ## See also
 - [Business Continuity & DR](index.md)
