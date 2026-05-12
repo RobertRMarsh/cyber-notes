@@ -44,7 +44,10 @@
 ###### The Archaic age
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
 	- increase in acedemic exploration
-	- cultura
+	- social status affected by polies
+		- sparta was militaristic
+		- athens was more liberal
+		- trade between poleis
 - key figures in this period:
 	- Socrates
 	- hippocrates
@@ -57,15 +60,24 @@
 	- advancements in science
 	- Philosophy 
 - development of events as each era shifted and impacted the next 
-	- 
+	- conflict between poleis
 ###### The Classical Period
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
-	- 
+	- persian wars shifted focus from inter-poleis conflict outward towards persia
 - key figures in this period:
-	- 
+	- greeks and persia 
+	- sparta and athens
+	- Macedonians(Phillip II) 
+	- Alexander The Great
 - significant cultural establishments:
-	- 
+	- greece winning persian war at plataea in 479
+	- Delian league, an attempt by athens to takeover the united greece
 - development of events as each era shifted and impacted the next 
+	- fallout of sparta and athens leading to peloponnesian war
+	- spartan blockade starved athens
+	- thebans defeat sparta 
+	- Macedonians(Phillip II) then took over greece after beating both thebans and athens
+	- 2 years later 
 	- Death of Alexander the Great
 ##### Hellenistic
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
