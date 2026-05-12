@@ -12,6 +12,7 @@ Status: #InProgress
 	- security and safety procedures
 	- notification of appropriate emergency-response agencies, etc.
 	- Notification systems and call trees for alerting personnel BCP is underway
+		- *Call trees*, when one person is unavailable the caller knows who else to contact
 	- Guidance for management, including designation of authorities for specific managers
 		- how/when to enact plans
 	- Contact numbers for critical supply chain members
