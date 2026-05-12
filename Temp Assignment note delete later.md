@@ -130,13 +130,17 @@
 	- octavian got title of augustus (revered) marking the end of the republic 
 ###### Empire
 - how did the culture spread and develop, innovations and distinctive characteristics of the era:
-	- 
+	- octavian became imperator and a religious leader, controlling military fueled by taxation   
 - key figures in this period:
-	- 
+	- Octavian 
 - significant cultural establishments:
-	- 
+	- romanizations, veterans where given land grants of conquered lands to spread culture in a more natural way
+	- expanse north allowing for more european trade opportunities 
+	- returned senateto power on the surface (Octavian ruled more from behind the scenes)
+	- aquaducts used to bring in freshwater and remove sewage 
 - development of events as each era shifted and impacted the next:
-	- 
+	- all following emrerors paled to octavian, Tiberius tried but Caligula and Nero were terrible
+	- vaspian took control and his dynasty was marked by 5 good empoerers including Marcus aurelias 
 ##### Reference page
 
 Rome in the Ancient World: From Romulus to Justinian. (2009, December 22). _Contemporary Review_, _291_(1695), 534.
