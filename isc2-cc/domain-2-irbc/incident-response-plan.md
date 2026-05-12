@@ -32,6 +32,17 @@ Status: #InProgress
 - identify evidence that may need to be retained 
 - document lessons learned
 - conduct a retrospective of this and all previous steps
+### Incident Response Team
+- properly staffed and trained incident response team
+- many IT professionals are classified as first responder for incidents
+	- due to expertise they can identify diff between typical IT problem and security incidents
+#### Dedicated Teams
+##### CIRTs(Computer Incident Response Teams)
+##### CSIRTS(Computer Security Incident Response Teams)
+##### Main 4 responsibilities
+- determine the amount and scope
+- determine if confidential information was compromised during the event 
+- implement nesse
 
 ## See also
 - [Business Continuity & DR](index.md)
