@@ -16,6 +16,11 @@ Status: #InProgress
 ### BCP VS DRP
 - BCP is about maintaining critical business functions
 - DRP is about restoring IT and Comms
+
+### Real world DR
+- In a hospital in Los Angeles it took 8 and a half months to discover a compromise
+	- recent backups could not be used so one from a year prior had to be used, and the lost data had to be manually re-entered
+		- more through and precise system monitoring could have avoided this
  
 ## See also
 - [Business Continuity & DR](index.md)
