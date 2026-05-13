@@ -138,9 +138,12 @@
 	- expanse north allowing for more european trade opportunities 
 	- returned senateto power on the surface (Octavian ruled more from behind the scenes)
 	- aquaducts used to bring in freshwater and remove sewage 
+	- marked by latin golden age with advancements in science 
+	- christianity formed during the early empire and its role expanded in the later years 
 - development of events as each era shifted and impacted the next:
 	- all following emrerors paled to octavian, Tiberius tried but Caligula and Nero were terrible
 	- vaspian took control and his dynasty was marked by 5 good empoerers including Marcus aurelias 
+	- after marcus aurelias died and septimius severus restored the empire then lead to a long chain of emporers that showed a lack of leadership causing strife and lack of trade whihc marked the end of this period but not the empire as a whole
 ##### Reference page
 
 Rome in the Ancient World: From Romulus to Justinian. (2009, December 22). _Contemporary Review_, _291_(1695), 534.
