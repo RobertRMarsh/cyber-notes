@@ -85,7 +85,6 @@
 - how did the culture spread and develop, innovations and distinctive characteristics of the era: 
 	- seperations of alexanders conquered lands between his generals
 		- ptolemy egypt, sleucus asiaminor-india, and antigonus macedonia
-	- 
 - key figures in this period: 
 	- alexanders wife and son who were killed 
 	- his generals
