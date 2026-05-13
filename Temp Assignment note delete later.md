@@ -114,7 +114,7 @@
 	- constant war and expanse, butting heads with carthage 
 		- punic wars 
 - key figures in this period:
-	- carthage 
+	- carthage and hannibal 
 - significant cultural establishments:
 	- the Senate which stuck around even after the republics collapse and the empire was formed 
 	- havy greek influence around arts leasure 
