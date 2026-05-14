@@ -10,5 +10,5 @@ Status: #InProgress
 - link to Area 3
  
 ## See also
-- [ISC2-CC](isc2cc-index.md)
+- [ISC2-CC](index.md)
 - [Comparisons](comparisons/index.md)

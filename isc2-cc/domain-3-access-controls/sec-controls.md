@@ -14,7 +14,7 @@ Status: #InProgress
 		- i.e. the seatbelt
 	- technical control
 		- i.e. car beeping at you if you don't wear the seatbelt
-### Monitoring 
+### Monitoring Controls
 #### Cameras 
 - flexible monitoring
 - should be combined with other sensors can provide evidence if recording
@@ -31,4 +31,5 @@ Status: #InProgress
 
 ## See also
 - [Access Controls](access-control-index.md)
+- [Security Controls Introduction](../domain-1-sec-principles/sec-controls.md)
 - [Comparisons](comparisons/index.md)

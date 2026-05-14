@@ -1,13 +1,10 @@
-2026-05-03 12:04
-Status: #InProgress
-
-## Notes
--  
-
-## Areas
-- link to Area 1
-- link to Area 2
-- link to Area 3
+2026-05-14 15:56
+Status: #InProgress 
+ 
+## Topics
+- [Network Devices](network-devices.md)
+- []
+- []
  
 ## See also
 - [ISC2-CC](isc2cc-index.md)
