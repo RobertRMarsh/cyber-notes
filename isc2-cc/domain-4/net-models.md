@@ -2,31 +2,30 @@
 Status: #InProgress
 
 ## Notes
-## Networking Models
-- they;
-	- provide reliable, managed communications between hosts
-	- isolate functions into layers
-	- use packets as basis of comms
-	- routing, addressing, and control are standardized
-	- allow layers beyond internetworking for extra functionality
-	- vendor agnostic 
-### Layers
-#### Application/Upper Layer
+### Networking Models
+- provide reliable, managed communications between hosts
+- isolate functions into layers
+- use packets as basis of comms
+- routing, addressing, and control are standardized
+- allow layers beyond internetworking for extra functionality
+- vendor agnostic 
+#### Layers
+##### Application/Upper Layer
 - manages integrity of connection, manages comms
 - transforms data into a format any system can understand1
-##### Application
-##### Presentation
-##### Session
-#### Data Transport/Lower Layer
+###### Application
+###### Presentation
+###### Session
+##### Data Transport/Lower Layer
 - responsible for receiving physical bits and converting them into frames
-##### Transport 
-##### Network
-##### Data Link
-##### Physical 
-## TCP/IP
+###### Transport 
+###### Network
+###### Data Link
+###### Physical 
+### TCP/IP Model
 - commonly used by embedded systems when connected to a corporate network
 - internet
-### TCP/IP VS OSI
+### TCP/IP VS OSI Model
 <table style="text-align: center;">  
   <thead>
     <tr>  
@@ -79,24 +78,24 @@ Status: #InProgress
     <td rowspan="2" style="text-align: center;">FDDI</td> 
   </tr>  
   <tr>  
-     
+     <td style="text-align: center;">Physical Layer</td> 
   </tr>  
 </table>
 
 ### TCP/IP Protocols
-- *UDP* 
-	- in the *transport layer*
-	- simple connectionless protocol
-	- faster
-- *TCP*
-	- in the *transport layer*
-	- full duplex connected protocol
-	- slower but more secure
-- *ICMP (Internet Control Message Protocol)*
-	- in the *internet/network layer*
-	- determines network/connection health
-	- used by ping, traceroute and other similar commands
-		- ping uses ICMP echo packets
+#### UDP 
+- in the *transport layer*
+- simple connectionless protocol
+- faster
+#### TCP
+- in the *transport layer*	
+- full duplex connected protocol
+- slower but more secure
+#### ICMP (Internet Control Message Protocol)
+- in the *internet/network layer*
+- determines network/connection health
+- used by ping, traceroute and other similar commands
+- ping uses ICMP echo packets
 ## OSI
 - theorectical framework
 - encapsulation is the adding of header, or trialer/footer to data
