@@ -27,51 +27,53 @@ Status: #InProgress
 - commonly used by embedded systems when connected to a corporate network
 - internet
 ### TCP/IP VS OSI
-<table>  
+<table style="text-align: center;">  
   <thead>
     <tr>  
-      <th>OSI</th>  
-      <th>TCP Architecture</th>  
-      <th colspan="4">TCP/IP Suite</th>  
+      <th style="text-align: center;">OSI</th>  
+      <th style="text-align: center;">TCP Architecture</th>  
+      <th colspan="4" style="text-align: center;">TCP/IP Suite</th>  
     </tr>  
   </thead>
   <tr>  
-    <td>Application Layer</td>  
-    <td rowspan="3">Application Layer</td>  
-    <td>FTP</td>
-    <td>Telnet</td>
-    <td>SNMP</td>
-    <td>LPD</td>
+    <td style="text-align: center;">Application Layer</td>  
+    <td rowspan="3" style="text-align: center;">Application Layer</td>  
+    <td style="text-align: center;">FTP</td>
+    <td style="text-align: center;">Telnet</td>
+    <td style="text-align: center;">SNMP</td>
+    <td style="text-align: center;">LPD</td>
   </tr>  
   <tr>  
-    <td>Presentation Layer</td>  
-    <td>TFTP</td>
-    <td>SMTP</td> 
-    <td>NFS</td> 
-    <td>X Window</td> 
+    <td style="text-align: center;">Presentation Layer</td>  
+    <td style="text-align: center;">TFTP</td>
+    <td style="text-align: center;">SMTP</td> 
+    <td style="text-align: center;">NFS</td> 
+    <td style="text-align: center;">X Window</td> 
   </tr>  
   <tr>  
-    <td>Session Layer</td>  
-    <td>Mexico</td>  
+    <td style="text-align: center;">Session Layer</td>  
+    <td style="text-align: center;">Mexico</td>  
   </tr>  
   <tr>  
-    <td>Transport Layer</td>  
-    <td>Francisco Chang</td>  
-    <td>Mexico</td>  
+    <td style="text-align: center;">Transport Layer</td>  
+    <td style="text-align: center;">Transport Layer</td>  
+    <td style="text-align: center;">TCP</td>  
   </tr>  
   <tr>  
-    <td>Network Layer</td>  
-    <td>Francisco Chang</td>  
-    <td>Mexico</td>  
+    <td style="text-align: center;">Network Layer</td>  
+    <td style="text-align: center;">Internet Layer</td>  
+    <td style="text-align: center;">ICMP</td>  
   </tr>  
   <tr>  
-    <td>Data Link Layer</td>  
-    <td rowspan="2">Francisco Chang</td>  
-    <td>Mexico</td>  
+    <td style="text-align: center;">Data Link Layer</td>  
+    <td rowspan="2" style="text-align: center;">Network Interface Layer</td>  
+    <td rowspan="2" style="text-align: center;">Ethernet</td> 
+    <td rowspan="2" style="text-align: center;">Fast Ethernet</td> 
+    <td rowspan="2" style="text-align: center;">Token Ring</td> 
+    <td rowspan="2" style="text-align: center;">FDDI</td> 
   </tr>  
   <tr>  
-    <td>Physical layer</td>
-    <td>Physical layer</td>    
+     
   </tr>  
 </table>
 
