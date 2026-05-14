@@ -39,17 +39,20 @@ Status: #InProgress
     <td style="text-align: center;">Application Layer</td>  
     <td rowspan="3" style="text-align: center;">Application Layer</td>  
     <td rowspan="3" style="text-align: center;">
-      <p>FTP
-      <hr><p></p><hr>
-      TFTP</p>
+      <p>FTP</p><hr><p>TFTP</p>
+    </td>
+    <td rowspan="3" style="text-align: center;">
+      <p>Telnet</p><hr><p>SMTP</p>
+    </td>
+    <td rowspan="3" style="text-align: center;">
+      <p>SNMP</p><hr><p>NFS</p>
+    </td>
+    <td rowspan="3" style="text-align: center;">
+      <p>LPD</p><hr><p>XWindow</p>
     </td>
   </tr>  
   <tr>  
     <td style="text-align: center;">Presentation Layer</td>  
-    <td style="text-align: center;">TFTP</td>
-    <td style="text-align: center;">SMTP</td> 
-    <td style="text-align: center;">NFS</td> 
-    <td style="text-align: center;">X Window</td> 
   </tr>  
   <tr>  
     <td style="text-align: center;">Session Layer</td>    
@@ -57,12 +60,15 @@ Status: #InProgress
   <tr>  
     <td style="text-align: center;">Transport Layer</td>  
     <td style="text-align: center;">Transport Layer</td>  
-    <td style="text-align: center;">TCP</td>  
+    <td colspan="2" style="text-align: center;">TCP</td>
+    <td colspan="2" style="text-align: center;">UDP</td>  
   </tr>  
   <tr>  
     <td style="text-align: center;">Network Layer</td>  
     <td style="text-align: center;">Internet Layer</td>  
-    <td style="text-align: center;">ICMP</td>  
+    <td style="text-align: center;">ICMP</td>
+    <td colspan="2" style="text-align: center;">IP</td>
+    <td style="text-align: center;">ICMP</td>
   </tr>  
   <tr>  
     <td style="text-align: center;">Data Link Layer</td>  
