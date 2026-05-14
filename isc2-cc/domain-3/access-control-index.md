@@ -4,7 +4,7 @@ Status: #InProgress
 ## Topics
 - [Access Control Terminology](access-control-terms.md)
 - [Core Concepts](access-control-concepts.md)
-- [Security Controls](isc2-cc/domain-3/sec-controls.md)
+- [Security Controls](sec-controls.md)
 - [Access Control Models](access-control-models.md)
  
 ## See also
