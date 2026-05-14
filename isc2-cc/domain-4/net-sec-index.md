@@ -3,8 +3,8 @@ Status: #InProgress
  
 ## Topics
 - [Network Devices](network-devices.md)
-- []
-- [Network Addresses](net-addresses.md)
+- [Network Device Addresses](net-addresses.md)
+- [Networking Models](net-models.md)
  
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
