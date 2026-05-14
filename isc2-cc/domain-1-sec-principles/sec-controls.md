@@ -14,5 +14,5 @@ Status: #InProgress
 - also called *Managerial Controls*
 - policies/guidelines 
 ## See also
-- [Security Principles](index.md)
+- [Security Principles](sec-principles-index.md)
 - [Comparisons](comparisons/index.md)

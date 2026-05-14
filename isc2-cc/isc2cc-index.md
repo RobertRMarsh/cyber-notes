@@ -2,11 +2,11 @@
 Status: #InProgress
 
 ## Domains
-- [Security Principles](domain-1-sec-principles/index.md)
-- [Business Continuity & DR](isc2-cc/domain-2-irbc/index.md)
-- [Access Controls](domain-3-access-controls/index.md)
-- [Network Security](domain-4-net-sec/index.md)
-- [Security Operations](domain-5-sec-ops/index.md)
+- [Security Principles](sec-principles-index.md)
+- [Business Continuity & DR](irbc-index.md)
+- [Access Controls](access-control-index.md)
+- [Network Security](net-sec-index.md)
+- [Security Operations](sec-ops-index.md)
 
 ## Overall Progress
 - [x] Pre-assessment exam

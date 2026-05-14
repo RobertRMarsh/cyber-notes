@@ -45,5 +45,5 @@ Status: #InProgress
 - presented as a report/presentation to management
 
 ## See also
-- [Security Principles](index.md)
+- [Security Principles](sec-principles-index.md)
 - [Comparisons](comparisons/index.md)

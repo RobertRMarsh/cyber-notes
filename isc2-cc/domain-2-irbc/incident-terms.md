@@ -25,5 +25,5 @@ Status: #InProgress
 - unknown system vulnerability that can avoid detection due to not fitting recognized attack signatures/patterns.
 
 ## See also
-- [Business Continuity & DR](index.md)
+- [Business Continuity & DR](irbc-index.md)
 - [Comparisons](comparisons/index.md)

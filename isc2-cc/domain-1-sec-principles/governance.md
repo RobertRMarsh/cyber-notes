@@ -13,5 +13,5 @@ Status: #InProgress
 - Procedures are the detailed steps to complete a task that supports org policies.
  
 ## See also
-- [Security Principles](index.md)
+- [Security Principles](sec-principles-index.md)
 - [Comparisons](comparisons/index.md)

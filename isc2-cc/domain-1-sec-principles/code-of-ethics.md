@@ -13,5 +13,5 @@ Status: #done
 - your duty in an org is to the users, i.e. "society", "public", and "common good"
 
 ## See also
-- [Security Principles](index.md)
+- [Security Principles](sec-principles-index.md)
 - [Comparisons](comparisons/index.md)

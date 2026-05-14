@@ -23,5 +23,5 @@ Status: #InProgress
 - for communication outages from cyber attacks related to critical infrastructure like hospitals military grade networks can be used to maintain essential activityL
 
 ## See also
-- [Business Continuity & DR](index.md)
+- [Business Continuity & DR](irbc-index.md)
 - [Comparisons](comparisons/index.md)

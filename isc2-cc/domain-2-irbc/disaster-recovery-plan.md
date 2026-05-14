@@ -23,5 +23,5 @@ Status: #InProgress
 		- more through and precise system monitoring could have avoided this
  
 ## See also
-- [Business Continuity & DR](index.md)
+- [Business Continuity & DR](irbc-index.md)
 - [Comparisons](comparisons/index.md)

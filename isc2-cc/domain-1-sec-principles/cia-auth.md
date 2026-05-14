@@ -46,5 +46,5 @@ Status: #InProgress
 - rely on the authentication of one's identity
 
 ## See also
-- [Security Principles](index.md)
+- [Security Principles](sec-principles-index.md)
 - [Comparisons](comparisons/index.md)

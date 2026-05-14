@@ -47,5 +47,5 @@ Status: #InProgress
 - supervise the implementation of any security measures necessary to improve security and prevent recurrence of the incident 
 
 ## See also
-- [Business Continuity & DR](index.md)
+- [Business Continuity & DR](irbc-index.md)
 - [Comparisons](comparisons/index.md)
