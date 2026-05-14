@@ -38,10 +38,11 @@ Status: #InProgress
   <tr>  
     <td style="text-align: center;">Application Layer</td>  
     <td rowspan="3" style="text-align: center;">Application Layer</td>  
-    <td rowspan="1.5" style="text-align: center;">FTP</td>
-    <td style="text-align: center;">Telnet</td>
-    <td style="text-align: center;">SNMP</td>
-    <td style="text-align: center;">LPD</td>
+    <td rowspan="3" style="text-align: center;">
+      <p>FTP
+      <hr><p></p><hr>
+      TFTP</p>
+    </td>
   </tr>  
   <tr>  
     <td style="text-align: center;">Presentation Layer</td>  
