@@ -1,13 +1,12 @@
-2026-05-03 12:04
+
+2026-05-14 09:39
 Status: #InProgress
 
-## Notes
--  
-
-## Areas
-- link to Area 1
-- link to Area 2
-- link to Area 3
+## Topics
+- [Access Control Terminology](access-control-terms.md)
+- [Security Controls]
+- [Defense in Depth(Layered Defense)]
+- []
  
 ## See also
 - [ISC2-CC](../index.md)
