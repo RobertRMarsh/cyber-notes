@@ -9,23 +9,7 @@ Status: #InProgress
 - routing, addressing, and control are standardized
 - allow layers beyond internetworking for extra functionality
 - vendor agnostic 
-#### Layers
-##### Application/Upper Layer
-- manages integrity of connection, manages comms
-- transforms data into a format any system can understand1
-###### Application
-###### Presentation
-###### Session
-##### Data Transport/Lower Layer
-- responsible for receiving physical bits and converting them into frames
-###### Transport 
-###### Network
-###### Data Link
-###### Physical 
-### TCP/IP Model
-- commonly used by embedded systems when connected to a corporate network
-- internet
-### TCP/IP VS OSI Model
+### TCP/IP VS OSI Models
 <table style="text-align: center;">  
   <thead>
     <tr>  
@@ -82,6 +66,10 @@ Status: #InProgress
   </tr>  
 </table>
 
+
+### TCP/IP Model
+- commonly used by embedded systems when connected to a corporate network
+- internet
 ### TCP/IP Protocols
 #### UDP 
 - in the *transport layer*
@@ -96,39 +84,51 @@ Status: #InProgress
 - determines network/connection health
 - used by ping, traceroute and other similar commands
 - ping uses ICMP echo packets
-## OSI
-- theorectical framework
-- encapsulation is the adding of header, or trialer/footer to data
+### OSI
+- theoretical framework
+- encapsulation is the adding of header, or trailer/footer to data
 - At the physical layer data is transformed to binary and sent across a network
-### Examples 
+#### Examples 
 - photos are presentation layer
 - logical ports are the session layer
 - tcp/udp are transport layer
 - routers are network layers
 - switches are data link layer
-### Encapsulation
+#### Encapsulation
 - occurs moving down from application layer ==> Physical Layer
 - each new layers payload is the result of the encapsulation of the last layer
 - data unit increases in size as we move down and further instructions are added
-### De-encapsulation
+#### De-encapsulation
 - occurs moving up from the Physical layer ==> application layer
 - data decreases in size as it moves up
-## IOT(Internet-Of-Things)
-- embedded devices connected to each other that accomplish things irl
+### Network Model Layers
+#### Application/Upper Layer
+- manages integrity of connection, manages comms
+- transforms data into a format any system can understand1
+##### Application
+##### Presentation
+##### Session
+#### Data Transport/Lower Layer
+- responsible for receiving physical bits and converting them into frames
+##### Transport 
+##### Network
+##### Data Link
+##### Physical 
+### IOT(Internet-Of-Things)
+- embedded devices connected to each other that accomplish things in the physical world
 	- smart appliances
-- segment off the network, many have security vulnerabilities/do not have up to date firmware
-## Cloud Deployment Models
-#### The 4 Models
-##### Public
+- segment them off the network, many have security vulnerabilities/do not have up to date firmware
+### The 4 Cloud Deployment Models
+#### Public
 - easy access 
-##### Private
+#### Private
 - private org's own cloud
 - org is responsible for all maintenance
 - can rent resources from third party based on *service model*
-##### Hybrid
+#### Hybrid
 - retain ownership of critical tasks
 - have convenient access to public cloud for non critical functions
-##### Community
+#### Community
 - can be either public or private
 - communist cloud
  
