@@ -34,20 +34,18 @@ Status: #InProgress
       <th>TCP Architecture</th>  
       <th>TCP/IP Suite</th>  
     </tr>  
-
+  </thead>
   <tr>  
     <td>Application Layer</td>  
-    <td>Maria Anders</td>  
+    <td rowspan="3">Application Layer</td>  
     <td>Germany</td>  
   </tr>  
   <tr>  
     <td>Presentation Layer</td>  
-    <td>Francisco Chang</td>  
     <td>Mexico</td>  
   </tr>  
   <tr>  
     <td>Session Layer</td>  
-    <td>Francisco Chang</td>  
     <td>Mexico</td>  
   </tr>  
   <tr>  
@@ -62,25 +60,15 @@ Status: #InProgress
   </tr>  
   <tr>  
     <td>Data Link Layer</td>  
-    <td>Francisco Chang</td>  
+    <td rowspan="2">Francisco Chang</td>  
     <td>Mexico</td>  
   </tr>  
   <tr>  
-    <td>Physical layer</td>  
-    <td>Francisco Chang</td>  
-    <td>Mexico</td>  
+    <td>Physical layer</td>
+    <td>Physical layer</td>    
   </tr>  
 </table>
 
-| OSI                | TCP Architecture        | TCP/IP Suite |
-| ------------------ | ----------------------- | ------------ |
-| Application Layer  |                         |              |
-| Presentation Layer |                         |              |
-| Session Layer      |                         |              |
-| Transport Layer    |                         |              |
-| Network Layer      | Internet Layer          |              |
-| Data Link Layer    | Network Interface Layer |              |
-| Physical Layer     | Network Interface layer |              |
 ### TCP/IP Protocols
 - *UDP* 
 	- in the *transport layer*
