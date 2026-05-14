@@ -4,9 +4,10 @@ Status: #InProgress
 
 ## Topics
 - [Access Control Terminology](access-control-terms.md)
-- [Security Controls]
-- [Defense in Depth(Layered Defense)]
-- [Access Control Schemes]
+- [Core Concepts](access-control-concepts.md)
+- [Security Controls](sec-control.md)
+- [Access Control Models](access-control-models.md)
+- [Governing Principles](gov-principles.md)
  
 ## See also
 - [ISC2-CC](../index.md)
