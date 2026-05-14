@@ -31,5 +31,5 @@ Status: #InProgress
 
 ## See also
 - [Access Controls](access-control-index.md)
-- [Security Controls Introduction](../domain-1-sec-principles/sec-controls.md)
+- [Security Controls Introduction](isc2-cc/domain-1/sec-controls.md)
 - [Comparisons](comparisons/index.md)
