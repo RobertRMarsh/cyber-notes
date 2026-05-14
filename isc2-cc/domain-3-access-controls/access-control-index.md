@@ -8,5 +8,5 @@ Status: #InProgress
 - [Access Control Models](access-control-models.md)
  
 ## See also
-- [ISC2-CC](isc2cc-index.md)
+- [ISC2-CC](../isc2cc-index.md)
 - [Comparisons](comparisons/index.md)

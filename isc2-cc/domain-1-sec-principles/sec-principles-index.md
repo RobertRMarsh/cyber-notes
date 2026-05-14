@@ -9,5 +9,5 @@ Status: #InProgress
 - [Security Controls](isc2-cc/domain-1-sec-principles/sec-controls.md)
 
 ## See also
-- [ISC2-CC](isc2cc-index.md)
+- [ISC2-CC](../isc2cc-index.md)
 - [Comparisons](comparisons/index.md)
