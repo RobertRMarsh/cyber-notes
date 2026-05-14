@@ -27,6 +27,50 @@ Status: #InProgress
 - commonly used by embedded systems when connected to a corporate network
 - internet
 ### TCP/IP VS OSI
+<table>  
+  <thead>
+    <tr>  
+      <th>OSI</th>  
+      <th>TCP Architecture</th>  
+      <th>TCP/IP Suite</th>  
+    </tr>  
+
+  <tr>  
+    <td>Application Layer</td>  
+    <td>Maria Anders</td>  
+    <td>Germany</td>  
+  </tr>  
+  <tr>  
+    <td>Presentation Layer</td>  
+    <td>Francisco Chang</td>  
+    <td>Mexico</td>  
+  </tr>  
+  <tr>  
+    <td>Session Layer</td>  
+    <td>Francisco Chang</td>  
+    <td>Mexico</td>  
+  </tr>  
+  <tr>  
+    <td>Transport Layer</td>  
+    <td>Francisco Chang</td>  
+    <td>Mexico</td>  
+  </tr>  
+  <tr>  
+    <td>Network Layer</td>  
+    <td>Francisco Chang</td>  
+    <td>Mexico</td>  
+  </tr>  
+  <tr>  
+    <td>Data Link Layer</td>  
+    <td>Francisco Chang</td>  
+    <td>Mexico</td>  
+  </tr>  
+  <tr>  
+    <td>Physical layer</td>  
+    <td>Francisco Chang</td>  
+    <td>Mexico</td>  
+  </tr>  
+</table>
 
 | OSI                | TCP Architecture        | TCP/IP Suite |
 | ------------------ | ----------------------- | ------------ |
@@ -34,7 +78,7 @@ Status: #InProgress
 | Presentation Layer |                         |              |
 | Session Layer      |                         |              |
 | Transport Layer    |                         |              |
-| Network Layer      |                         |              |
+| Network Layer      | Internet Layer          |              |
 | Data Link Layer    | Network Interface Layer |              |
 | Physical Layer     | Network Interface layer |              |
 ### TCP/IP Protocols
