@@ -32,17 +32,23 @@ Status: #InProgress
     <tr>  
       <th>OSI</th>  
       <th>TCP Architecture</th>  
-      <th>TCP/IP Suite</th>  
+      <th colspan="4">TCP/IP Suite</th>  
     </tr>  
   </thead>
   <tr>  
     <td>Application Layer</td>  
     <td rowspan="3">Application Layer</td>  
-    <td>FTP</td>  
+    <td>FTP</td>
+    <td>Telnet</td>
+    <td>SNMP</td>
+    <td>LPD</td>
   </tr>  
   <tr>  
     <td>Presentation Layer</td>  
-    <td>Mexico</td>  
+    <td>TFTP</td>
+    <td>SMTP</td> 
+    <td>NFS</td> 
+    <td>X Window</td> 
   </tr>  
   <tr>  
     <td>Session Layer</td>  
