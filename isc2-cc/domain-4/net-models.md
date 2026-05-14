@@ -28,15 +28,15 @@ Status: #InProgress
 - internet
 ### TCP/IP VS OSI
 
-| OSI                | TCP Architecture | TCP/IP Suite |
-| ------------------ | ---------------- | ------------ |
-| Application Layer  |                  |              |
-| Presentation Layer |                  |              |
-| Session Layer      |                  |              |
-| Transport Layer    |                  |              |
-| Network Layer      |                  |              |
-| Data Link Layer    |                  |              |
-| Physical layer     |                  |              |
+| OSI                | TCP Architecture        | TCP/IP Suite |
+| ------------------ | ----------------------- | ------------ |
+| Application Layer  |                         |              |
+| Presentation Layer |                         |              |
+| Session Layer      |                         |              |
+| Transport Layer    |                         |              |
+| Network Layer      |                         |              |
+| Data Link Layer    | Network Interface Layer |              |
+| Physical Layer     | Network Interface layer |              |
 ### TCP/IP Protocols
 - *UDP* 
 	- in the *transport layer*
