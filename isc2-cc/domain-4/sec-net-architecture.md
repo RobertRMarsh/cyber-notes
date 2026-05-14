@@ -11,6 +11,10 @@ Status: #InProgress
 - crucial in the cloud 
 - maxed out least privilege
 - used through virtualization/SDN(Software Defined Networking) also in the cloud VPNs or security groups
+### Vlans 
+- vlan hopping lets you overhear traffic from another vlan
+- consolidate traffic across multiple ports
+- NAC systems use VLANs to control whether devices connect to the corporate network or a guest network
 ### IDS(Intrusion Prevention System)
 - *intrusion* an attacker thwarts security
 - IDSs automate the inspection of logs and real-time system attempts and system failures
@@ -49,4 +53,4 @@ Status: #InProgress
 - in a scenario need full power redundancy two power supplies connected to diverse sources would be best
  
 ## See also
-- link back to main index
+- [Network Security](net-sec-index.md)

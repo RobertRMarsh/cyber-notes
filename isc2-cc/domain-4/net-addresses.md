@@ -51,6 +51,25 @@ Status: #InProgress
 		- reserved for documentation use
 	- fc00:: to fdff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
 		- reserved for internal addresses, not routable on the internet
- 
+### Ports and Protocols 
+#### Physical ports
+- actual ports, i.e. fiber, ethernet etc.
+#### Logical Ports
+- also called a *socket* is an address number that both ends of comms agree to use when transferring data
+- allows an ip address to support multiple comms at once using a diff port number 
+- in the application layer of *TCP/IP model* resides application/service protocols
+	- port 80 == http
+	- port 443 == https
+	- (common to have a service have a secure an non secure port)
+- well known ports (0-1023) 
+	- core of TCP/IP
+- Registered ports (1024-49151) 
+	- associated with proprietary applications
+	- officially approved by IANA( Internet Assigned Numbers Authority), in practice companies usually pick one and use it
+		- RADIUS auth (1812)
+		- Microsoft SQL (1433,1434)
+		- Docker REST API (2375/2376)
+- Dynamic/private ports (49152-65535) 
+	- well known/registered services will respond with a  adynamic port that is then released
 ## See also
 - [Network Security](net-sec-index.md)
