@@ -10,3 +10,7 @@ Status: #InProgress
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
 - [Comparisons](comparisons/index.md)
+
+##### **Authentication**
+
+The act of identifying or verifying the eligibility of a station, originator, or individual to access specific categories of information. Typically, a measure designed to protect against fraudulent transmissions by establishing the validity of a transmission, message, station or originator.
