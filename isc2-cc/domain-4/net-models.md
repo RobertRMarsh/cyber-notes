@@ -70,6 +70,10 @@ Status: #InProgress
 ### TCP/IP Model
 - commonly used by embedded systems when connected to a corporate network
 - internet
+#### SYN-ACK handshake
+- SYN
+- ACK
+- SYN/ACK
 ### TCP/IP Protocols
 #### UDP 
 - in the *transport layer*
