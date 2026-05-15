@@ -10,9 +10,9 @@ Status: #InProgress
 
 ## Overall Progress
 - [x] Pre-assessment exam
-- [ ] Domain 1
+- [x] Domain 1
 	- [x] Notes
-	- [ ] Flashcards
+	- [x] Flashcards
 - [ ] Domain 2
 	- [x] Notes
 	- [ ] Flashcards
