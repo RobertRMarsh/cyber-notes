@@ -6,14 +6,16 @@ Status: #InProgress
 ```mermaid  
 graph TD  
 A[Plaintext] --> B[Encryption];
-A --> C[Algorithm]  
+A --> C[Algorithm];  
 D[Encryption Key]--> B;  
-D[Cryptovariables]--> C;  
-E[Key Management]  
-F[Cy]  
-C --> E[Add Milk/Sugar];  
-E --> F[Enjoy Coffee!];  
-F --> G[End];  
+E[Cryptovariables]--> C;  
+F[Key Management];
+B --> G[Cyphertext];
+C --> G;  
+G --> H[Decyption];  
+G --> I[Algorithm];  
+J[Cryptovariables]--> I;  
+K[Decryption Key]--> H;
 ```
  
 ## See also
