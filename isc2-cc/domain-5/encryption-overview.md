@@ -4,7 +4,8 @@ Status: #InProgress
 ## Notes
 ### Encryption
 - Process of turning *plaintext(The original data)* into *Cyphertext(not human readable, hopefully not intelligible to computers too)* 
-- 
+- *Cryptography* is the practice of securing communications though encryption
+- *Encryption System* a system that through hardware, software, algorithms, control parameters, and operational methods, provides a set of cryptographic services
 ### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
 ### Integrity Through Cryptography
