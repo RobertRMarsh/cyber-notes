@@ -3,8 +3,7 @@ Status: #InProgress
 
 ## Topics
 - [Data Handling](data-handling.md)
-- [](encryption.md)
+- [Encryption Overview](encryption-overview.md)
 - [](.md) 
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
-- [Comparisons](comparisons/index.md)
