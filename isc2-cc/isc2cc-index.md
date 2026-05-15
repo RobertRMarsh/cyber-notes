@@ -13,15 +13,15 @@ Status: #InProgress
 - [x] Domain 1
 	- [x] Notes
 	- [x] Flashcards
-- [ ] Domain 2
+- [x] Domain 2
 	- [x] Notes
-	- [ ] Flashcards
-- [ ] Domain 3
+	- [x] Flashcards
+- [x] Domain 3
 	- [x] Notes
-	- [ ] Flashcards
-- [ ] Domain 4
+	- [x] Flashcards
+- [x] Domain 4
 	- [x] Notes
-	- [ ] Flashcards
+	- [x] Flashcards
 - [ ] Domain 5
 	- [ ] Notes
 	- [ ] Flashcards
