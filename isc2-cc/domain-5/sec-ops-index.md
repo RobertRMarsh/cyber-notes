@@ -7,6 +7,7 @@ Status: #InProgress
 - [Security Policies](sec-policies.md) 
 - [Change Management](change-mgmt.md)
 - [Logging and Monitoring Security Events](logging-and-monitoring-sec-events.md)
+- [Security Awareness Training](sec-awareness-training.md)
 
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
