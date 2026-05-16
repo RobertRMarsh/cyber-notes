@@ -23,7 +23,17 @@ Status: #InProgress
 - each individual/group wanting to communicate needs their own key which is bad for scalability
 	- 1000 users means roughly 500K keys for each to have secure lines of comms with each other
 ##### Diagram of Symmetric Encryption
-
+```mermaid  
+graph TD  
+A(Plaintext) --> B[Encryption Proccess];
+C[Key Material] --> B;  
+C --> D[Out-of-band Key Distribution];
+B --> E(Ciphertext);
+E --> F[Decryption Process];
+D --> G[Key Material];
+G --> F;
+F --> H(Plaintext);
+```
 ### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
 ### Integrity Through Cryptography
