@@ -7,6 +7,7 @@ Status: #InProgress
 	- minor first infraction may result in warning
 	- second then would result in unpaid leave
 	- A sever infraction or third could result in termination
+- security policies should align with risk tolerance while ensuring regulatory requirements are met
  
 ## See also
 - [Security Operations](sec-ops-index.md)
