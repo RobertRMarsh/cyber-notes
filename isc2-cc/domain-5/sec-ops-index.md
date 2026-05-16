@@ -5,5 +5,8 @@ Status: #InProgress
 - [Data Handling](data-handling.md)
 - [Encryption Overview](encryption-overview.md)
 - [Security Policies](sec-policies.md) 
+- [Change Management](change-mgmt.md)
+- [Logging and Monitoring Security Events](logging-and-monitoring-sec-events.md)
+
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
