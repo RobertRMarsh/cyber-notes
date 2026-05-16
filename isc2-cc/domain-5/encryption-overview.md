@@ -13,9 +13,17 @@ Status: #InProgress
 - slower and more resource intensive
 - more secure
 #### Symmetric Encryption
-- involves one key
+- involves one key used for both encryption and decryption
 - faster and less overhead
 - less secure
+##### Challenges with Symmetric Encryption
+- if both parties have to have the key to talk privately, how do they share it?
+	- if sent through the same "band" or line of comms a MITM(Man in The Middle) attack could get the key
+	- *Out-of-Band* key distribution is sharing the key via another band/line of comms 
+- each individual/group wanting to communicate needs their own key which is bad for scalability
+	- 1000 users means roughly 500K keys for each to have secure lines of comms with each other
+##### Diagram of Symmetric Encryption
+
 ### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
 ### Integrity Through Cryptography
