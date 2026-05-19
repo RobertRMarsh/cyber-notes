@@ -16,6 +16,16 @@ Status: #InProgress
 - involves one key used for both encryption and decryption
 - faster and less overhead
 - less secure
+##### Other names for Symmetric Algorithms
+- Shared Key
+- Single Key
+- Secret Key
+- Session Key
+- Same Key
+##### Primary uses of Symmetric Algorithms
+- Encrypting bulk data (backups and such)
+- Encrypting messages traversing communications (IPSec, TLS)
+- Streaming Large-scale time sensitive data
 ##### Challenges with Symmetric Encryption
 - if both parties have to have the key to talk privately, how do they share it?
 	- if sent through the same "band" or line of comms a MITM(Man in The Middle) attack could get the key
@@ -34,7 +44,6 @@ D --> G[Key Material];
 G --> F;
 F --> H(Plaintext);
 ```
-##### 
 ### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
 ### Integrity Through Cryptography
