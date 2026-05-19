@@ -16,6 +16,7 @@ Status: #InProgress
 - Controls should be implemented to prevent logs from being altered 
 	- maintains confidentiality and integrity of log data
 - standards, regulations, policies and procedures govern how long logs should be kept as they could be evidence in an event
+- logs should be stored somewhere else than the machine where the data is gathered
 ##### Event Logging Best Practices
 - different tools will be used if it is an attack leaving the infrastructure or coming in
 ###### Ingress Monitoring

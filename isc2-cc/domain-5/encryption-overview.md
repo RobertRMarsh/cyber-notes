@@ -10,8 +10,12 @@ Status: #InProgress
 - involves 2 keys 
 	- public
 	- private
+	- one key is used for encryption and another is used for decryption
 - slower and more resource intensive
 - more secure
+##### Using an Asymmetric Algorithm
+- first generate a key pair
+	- often done through an cryptographic application or the (Public Key Infrastructure
 #### Symmetric Encryption
 - involves one key used for both encryption and decryption
 - faster and less overhead
@@ -25,7 +29,7 @@ Status: #InProgress
 ##### Primary uses of Symmetric Algorithms
 - Encrypting bulk data (backups and such)
 - Encrypting messages traversing communications (IPSec, TLS)
-- Streaming Large-scale time sensitive data
+- Streaming Large-scale time sensitive data (gaming,videos,audio)
 ##### Challenges with Symmetric Encryption
 - if both parties have to have the key to talk privately, how do they share it?
 	- if sent through the same "band" or line of comms a MITM(Man in The Middle) attack could get the key
