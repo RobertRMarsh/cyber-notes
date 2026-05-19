@@ -2,10 +2,47 @@
 Status: #InProgress
 
 ## Notes
-### Encryption
-- Process of turning *plaintext(The original data)* into *Cyphertext(not human readable, hopefully not intelligible to computers too)* 
-- *Cryptography* is the practice of securing communications though encryption
-- *Encryption System* a system that through hardware, software, algorithms, control parameters, and operational methods, provides a set of cryptographic services
+### Cryptography 
+- the study or applications of methods to protect the meaning, content of messages, files, or other info via obscuration or other transformations such as *Encryption* and *Hashing*
+#### Confidentiality Through Cryptography
+- Cryptography hides or obscures data from unauthorized access
+#### Integrity Through Cryptography
+- a *Hash* is an encrypted digest of a message used to verify if it has been un changed from it's original state (fixed length output)
+	- hashed code is often set as a *checksum* to verify it's integrity
+- *Digital signatures*
+#### Hashing 
+- take a variable length input and transform it into a fixed length output, or the *hash*
+- a *hash function* is the algorithm used to preform this transformation
+- most common method of ensuring message integrity today
+##### Hashing Uses
+- requirements to be useful 
+###### Useful
+###### Use
+###### Content integrity assurance
+###### Unique
+###### Deterministic
+#### Encryption
+- Process of turning *plaintext(The original data)* into *Cyphertext(not human readable, hopefully not intelligible to computers too)*
+- 2 way reversible system via *encryption* and *decryption*
+- *Encryption Systems* provide a set of cryptographic services through hardware, software, algorithms, control parameters, and operational methods
+##### Diagram of Encryption
+```mermaid  
+graph TD  
+A(Plaintext) --> B[Encryption];
+A --> C[Algorithm];  
+D[Encryption Key]--> B;  
+E[Cryptovariables]--> C;  
+F[Key Management];
+B --> G(Cyphertext);
+C --> G;  
+G --> H[Decyption];  
+G --> I[Algorithm];  
+J[Cryptovariables]--> I;  
+K[Decryption Key]--> H;
+I --> L(PlainText);
+H --> L;
+```
+ 
 #### Symmetric Encryption
 - involves one key used for both encryption and decryption
 - faster and less overhead
@@ -72,29 +109,6 @@ D --> E[Decryption];
 F[Key Material Encryption with Private Key of Receiver] --> E;
 E --> G(Plaintext);
 ```
-#### Confidentiality Through Cryptography
-- Cryptography hides or obscures data from unauthorized access
-#### Integrity Through Cryptography
-- a *Hash* is an encrypted digest of a message used to verify if it has been un changed from it's original state (fixed length output)
-	- hashed code is often set as a *checksum* to verify it's integrity
-- *Digital signatures*
-#### Diagram of Encryption
-```mermaid  
-graph TD  
-A(Plaintext) --> B[Encryption];
-A --> C[Algorithm];  
-D[Encryption Key]--> B;  
-E[Cryptovariables]--> C;  
-F[Key Management];
-B --> G(Cyphertext);
-C --> G;  
-G --> H[Decyption];  
-G --> I[Algorithm];  
-J[Cryptovariables]--> I;  
-K[Decryption Key]--> H;
-I --> L(PlainText);
-H --> L;
-```
- 
+
 ## See also
 - [Security Operations](sec-ops-index.md)
