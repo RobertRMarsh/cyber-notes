@@ -19,7 +19,7 @@ Status: #InProgress
 ##### Primary uses of Symmetric Algorithms
 - Encrypting bulk data (backups and such)
 - Encrypting messages traversing communications (IPSec, TLS)
-- Streaming Large-scale time sensitive data (gaming,videos,audio)
+- Streaming Large-scale time sensitive data (gaming, videos, audio)
 ##### Challenges with Symmetric Encryption
 - if both parties have to have the key to talk privately, how do they share it?
 	- if sent through the same "band" or line of comms a MITM(Man in The Middle) attack could get the key
@@ -52,7 +52,6 @@ F --> H(Plaintext);
 ##### Key pair
 - half of the key pair is kept secret; that is the user's *private key*
 - the second half of this key pair is the user's *public key*, which companies often make publicly available on their corporate website or key server
-- Anyone can encrypt something using the recipient's *public key* but only the recipient can decrypt it via their *private key*
 ##### What does problems does Asymmetric key Encryption solve?
 - Key distribution; allows a message to be sent across a insecure medium securely, also no overhead concerning prior key distribution
 - Non-repudiation; for both origin and delivery
@@ -60,14 +59,28 @@ F --> H(Plaintext);
 ##### What does problems does Asymmetric key Encryption introduce?
 - Speed; asymmetric encryption is giga slow and not viable for large data transfers or frequent data transfers
 ##### How Asymmetric key Encryption achieves security attributes
-- key pairs must be used together 
-### Confidentiality Through Cryptography
+- key pairs must be used together
+	- any message encrypted with a public key can only be decrypted with the corresponding private key
+	- signing a message with a private key can only be verified by the recipient decrypting it's signature through the senders public key 
+##### Diagram of Symmetric Encryption
+```mermaid  
+graph TD  
+A(Plaintext) --> B[Encryption Proccess];
+C[Key Material] --> B;  
+C --> D[Out-of-band Key Distribution];
+B --> E(Ciphertext);
+E --> F[Decryption Process];
+D --> G[Key Material];
+G --> F;
+F --> H(Plaintext);
+```
+#### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
-### Integrity Through Cryptography
+#### Integrity Through Cryptography
 - a *Hash* is an encrypted digest of a message used to verify if it has been un changed from it's original state (fixed length output)
 	- hashed code is often set as a *checksum* to verify it's integrity
 - *Digital signatures*
-### Diagram of Encryption
+#### Diagram of Encryption
 ```mermaid  
 graph TD  
 A(Plaintext) --> B[Encryption];
