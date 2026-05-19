@@ -39,17 +39,11 @@ graph LR
 A[(Originator)] --> B([Message]);
 B --> C(Hash);
 C --> D[Originator's Digest];    
-B --> E
---F[(Reciever)];  
-F[Key Management];
-B --> G(Cyphertext);
-C --> G;  
-G --> H[Decyption];  
-G --> I[Algorithm];  
-J[Cryptovariables]--> I;  
-K[Decryption Key]--> H;
-I --> L(PlainText);
-H --> L;
+B --> F[(Reciever)];
+D --> F[(Reciever)];
+B --> G(Hash);
+G --> H[Receiver's Digest];
+H --> D[Originator's Digest]; 
 ```
  
 
