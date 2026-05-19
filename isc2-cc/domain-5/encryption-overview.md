@@ -65,14 +65,12 @@ F --> H(Plaintext);
 ##### Diagram of Symmetric Encryption
 ```mermaid  
 graph TD  
-A(Plaintext) --> B[Encryption Proccess];
-C[Key Material] --> B;  
-C --> D[Out-of-band Key Distribution];
-B --> E(Ciphertext);
-E --> F[Decryption Process];
-D --> G[Key Material];
-G --> F;
-F --> H(Plaintext);
+A(Plaintext) --> B[Encryption];
+C[Key Material Encryption with Public Key of Receiver] --> B;  
+B --> D(Ciphertext);
+D --> E[Decryption];
+F[Key Material Encryption with Private Key of Receiver] --> E;
+E --> G(Plaintext);
 ```
 #### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
