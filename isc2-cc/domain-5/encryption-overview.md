@@ -53,10 +53,12 @@ F --> H(Plaintext);
 - half of the key pair is kept secret; that is the user's *private key*
 - the second half of this key pair is the user's *public key*, which companies often make publicly available on their corporate website or key server
 - Anyone can encrypt something using the recipient's *public key* but only the recipient can decrypt it via their *private key*
-##### What does Asymmetric key Encryption solve?
+##### What does problems does Asymmetric key Encryption solve?
 - Key distribution; allows a message to be sent across a insecure medium securely, also no overhead concerning prior key distribution
 - Non-repudiation; for both origin and delivery
-- scalability; 
+- Scalability; an org with 100,000 employees only needs 200,000 keys, one key pair per employee
+##### What does problems does Asymmetric key Encryption introduce?
+- Speed; asymmetric encryption is giga slow and not viable for large data transfers or frequent data transfers
 ### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
 ### Integrity Through Cryptography
