@@ -34,16 +34,17 @@ Status: #InProgress
 ###### Checksums
 - detect accidental data corruption
 ##### Diagram of Hashing
+- If the receiver's digest matches the originator's digest the the message has not been tampered with
 ```mermaid  
 graph LR
 A[(Originator)] --> B([Message]);
 B --> C(Hash);
 C --> D[Originator's Digest];    
 B --> F[(Reciever)];
-D --> F[(Reciever)];
-B --> G(Hash);
+F --> E([Message]);
+E --> G(Hash);
 G --> H[Receiver's Digest];
-H --> D[Originator's Digest]; 
+H -->|Matches?|D[Originator's Digest]; 
 ```
  
 
