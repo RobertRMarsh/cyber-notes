@@ -8,14 +8,19 @@ Status: #InProgress
 - *Encryption System* a system that through hardware, software, algorithms, control parameters, and operational methods, provides a set of cryptographic services
 #### Asymmetric Encryption
 - involves 2 keys 
-	- public
-	- private
+	- *public*
+	- *private*
 	- one key is used for encryption and another is used for decryption
 - slower and more resource intensive
 - more secure
 ##### Using an Asymmetric Algorithm
 - first generate a key pair
-	- often done through an cryptographic application or the (Public Key Infrastructure
+	- often done through an cryptographic application or the *PKI(Public Key Infrastructure)*
+	- the keys in the key pair are mathematically related, but the math is left to cryptanalysts and cryptographers
+
+	- half of the key pair is kept secret; that is the user's *private key*
+	- the second half of this key pair is the user's *public key*, which companies often make publicly available on their corporate website or key server
+	- Anyone can encrypt something using the recipient's *public key* but only the recipient can decrypt it via their *private key*
 #### Symmetric Encryption
 - involves one key used for both encryption and decryption
 - faster and less overhead
