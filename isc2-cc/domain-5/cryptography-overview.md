@@ -35,11 +35,12 @@ Status: #InProgress
 - detect accidental data corruption
 ##### Diagram of Hashing
 ```mermaid  
-graph LR  
-A([Message]) --> B(Hash);
-B --> C[Originator's Digest];  
-D[Encryption Key]--> B;  
-E[Cryptovariables]--> C;  
+graph LR
+A[(Originator)] --> B([Message]);
+B --> C(Hash);
+C --> D[Originator's Digest];    
+B --> E
+--F[(Reciever)];  
 F[Key Management];
 B --> G(Cyphertext);
 C --> G;  
