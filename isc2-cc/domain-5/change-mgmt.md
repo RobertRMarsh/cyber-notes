@@ -4,7 +4,8 @@ Status: #InProgress
 ## Notes
 ### Change Management
 - exists in an ongoing cycle
- - Request for change --> approval --> rollback
+	- Request for change --> approval --> rollback
+- usually managed by IT security professionals
 #### Change
 - change is suggested
 - starts with a *RFC(Request For Change)*

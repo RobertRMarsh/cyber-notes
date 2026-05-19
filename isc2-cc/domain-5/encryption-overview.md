@@ -34,6 +34,7 @@ D --> G[Key Material];
 G --> F;
 F --> H(Plaintext);
 ```
+##### 
 ### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
 ### Integrity Through Cryptography
