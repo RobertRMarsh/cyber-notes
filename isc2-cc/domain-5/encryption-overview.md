@@ -59,6 +59,8 @@ F --> H(Plaintext);
 - Scalability; an org with 100,000 employees only needs 200,000 keys, one key pair per employee
 ##### What does problems does Asymmetric key Encryption introduce?
 - Speed; asymmetric encryption is giga slow and not viable for large data transfers or frequent data transfers
+##### How Asymmetric key Encryption achieves security attributes
+- key pairs must be used together 
 ### Confidentiality Through Cryptography
 - Cryptography hides or obscures data from unauthorized access
 ### Integrity Through Cryptography
