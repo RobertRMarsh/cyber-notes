@@ -11,7 +11,7 @@ Status: #InProgress
 	- hashed code is often set as a *checksum* to verify it's integrity
 - *Digital signatures*
 #### Hashing 
-- take a variable length input and transform it into a fixed length output, or the *hash*
+- take a variable length input and transform it into a fixed length output, or the *hash/digest*
 - a *hash function* is the algorithm used to preform this transformation
 - Must be irreversible unlike encryption
 - most common method of ensuring message integrity today
@@ -33,7 +33,24 @@ Status: #InProgress
 - pinpoint duplicate data or uniquely identify files
 ###### Checksums
 - detect accidental data corruption
-##### Hashing Diagram
+##### Diagram of Hashing
+```mermaid  
+graph LR  
+A([Message]) --> B(Hash);
+B --> C[Originator's Digest];  
+D[Encryption Key]--> B;  
+E[Cryptovariables]--> C;  
+F[Key Management];
+B --> G(Cyphertext);
+C --> G;  
+G --> H[Decyption];  
+G --> I[Algorithm];  
+J[Cryptovariables]--> I;  
+K[Decryption Key]--> H;
+I --> L(PlainText);
+H --> L;
+```
+ 
 
 #### Encryption
 - Process of turning *plaintext(The original data)* into *Cyphertext(not human readable, hopefully not intelligible to computers too)*
@@ -41,7 +58,7 @@ Status: #InProgress
 - *Encryption Systems* provide a set of cryptographic services through hardware, software, algorithms, control parameters, and operational methods
 ##### Diagram of Encryption
 ```mermaid  
-graph TD  
+graph LR  
 A(Plaintext) --> B[Encryption];
 A --> C[Algorithm];  
 D[Encryption Key]--> B;  
