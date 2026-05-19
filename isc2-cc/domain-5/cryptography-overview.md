@@ -13,14 +13,28 @@ Status: #InProgress
 #### Hashing 
 - take a variable length input and transform it into a fixed length output, or the *hash*
 - a *hash function* is the algorithm used to preform this transformation
+- Must be irreversible unlike encryption
 - most common method of ensuring message integrity today
-##### Hashing Uses
-- requirements to be useful 
+##### Hashing Requirements to be Useful
 ###### Useful
-###### Use
+- it is easy to compute the hash value for any message
+###### Nonreversible
+- it must be computationally infeasible to reverse the hash process
 ###### Content integrity assurance
+- must also be computationally infeasible to modify a message such that reapplying the hash value will produce the original hash value
 ###### Unique
+- must be computationally infeasible to find two or more different, sensible messages that has to the same value
 ###### Deterministic
+- the same input will always generate the same hash, when using the same hash function
+##### Hashing Use Cases
+###### Digital Signatures 
+###### Message Authentication Codes
+###### Fingerprinting
+- pinpoint duplicate data or uniquely identify files
+###### Checksums
+- detect accidental data corruption
+##### Hashing Diagram
+
 #### Encryption
 - Process of turning *plaintext(The original data)* into *Cyphertext(not human readable, hopefully not intelligible to computers too)*
 - 2 way reversible system via *encryption* and *decryption*
