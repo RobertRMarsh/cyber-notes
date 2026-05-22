@@ -15,6 +15,7 @@ Status: #InProgress
 - used as a reference point 
 ###### Baselines
 - total inventory of all the systems: component's, data, hard/software, admin controls
+- helpful in achieving minimum levels 
 ##### Change Control
 - update process for requesting changes to the baseline
 - review and approval should be required for all changes
