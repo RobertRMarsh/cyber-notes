@@ -9,6 +9,7 @@ Status: #InProgress
 - [Logging and Monitoring Security Events](logging-and-monitoring-sec-events.md)
 - [Security Awareness Training](sec-awareness-training.md)
 - [Social Engineering](social-engineering.md)
+- [Configuration Management](config-management.md)
 
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
