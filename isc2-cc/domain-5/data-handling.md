@@ -19,6 +19,17 @@ Status: #InProgress
 - Archiving data when it is temporarily not needed
 ##### Destroy
 - Destroying data when it is no longer needed
+#### Data Handling Practices
+##### Classification
+- classifications dictate restrictions around how info is used/stored/shared
+- determines the labeling and handling of that data
+- 
+##### Labeling
+- 
+##### Retention
+- 
+##### Destruction
+- 
 
 ## See also
 - [Security Operations](sec-ops-index.md)

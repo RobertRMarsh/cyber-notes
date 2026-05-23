@@ -4,6 +4,12 @@ Status: #InProgress
 ## Notes
 ### Common Security Policies
 - all policies should support laws, regulatory compliance, or contractual obligations of an org
+- senior management is responsible for publishing and signing the organizations policies
+- failure to comply should have consequences
+	- minor first infraction may result in warning
+	- second then would result in unpaid leave
+	- A sever infraction or third could result in termination
+- security policies should align with risk tolerance while ensuring regulatory requirements are met
 #### Data Handling Policy
 - data should be required to be handled differently based on who needs access to it, and if it can be made public or if it is classified or sensitive
 - should spell out any restrictions or legal definitions around relevant regulations or laws
@@ -38,3 +44,4 @@ Status: #InProgress
 ## See also
 [Security Operations](sec-ops-index.md)
 [Change Management](change-mgmt.md)
+[Data Handling](data-handling.md)
