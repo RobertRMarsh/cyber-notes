@@ -10,6 +10,7 @@ Status: #InProgress
 - [Security Awareness Training](sec-awareness-training.md)
 - [Social Engineering](social-engineering.md)
 - [Configuration Management](config-management.md)
+- [Common Security Policies](common-sec-policies.md)
 
 ## See also
 - [ISC2-CC](../isc2cc-index.md)

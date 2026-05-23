@@ -10,12 +10,15 @@ Status: #InProgress
 ###### Inventory
 - the first step in asset management is a list of currently owned information assets/wish list of desired future ones
 - difficult to keep track of/ but required to understand what you are protecting
+- "you can't guard what you don't know you have"
 ##### (Security) Baselines
 - Minimum accepted level of protection
 - used as a reference point 
+- used to ensure uniformity of configuration throughout IT environment 
 ###### Baselines
 - total inventory of all the systems: component's, data, hard/software, admin controls
 - helpful in achieving minimum levels 
+- can be set via classifications: high, medium, low
 ##### Change Control
 - update process for requesting changes to the baseline
 - review and approval should be required for all changes
