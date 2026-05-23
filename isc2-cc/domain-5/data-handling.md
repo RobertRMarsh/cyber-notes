@@ -36,9 +36,9 @@ Status: #InProgress
 ##### Destruction
 - *remanence* is data that may be left on media after deleting and is a significant concern
 ###### Means of Destruction
-- *Clearing* data from a system, writing multiple patterns of random data over disk and all storage, also called *over*
-- **
-- **
+- *Clearing* data from a system, writing multiple patterns of random data over disk and all storage, also called *overwriting*, and *zeroing*, may still be a change sensitive data is recoverable
+- *Purging* the device or system greatly reducing risk of physical effects of original writing, i.e. magnet drives can have ghost data even after being cleared several times, however degaussing might not be sufficient
+- *Physical Destruction* is the ultimate solution 
 
 ## See also
 - [Security Operations](sec-ops-index.md)
