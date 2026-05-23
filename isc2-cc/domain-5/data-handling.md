@@ -22,14 +22,23 @@ Status: #InProgress
 #### Data Handling Practices
 ##### Classification
 - classifications dictate restrictions around how info is used/stored/shared
+	- they are derived from laws and regulations
 - determines the labeling and handling of that data
-- 
+- process of recognizing the organizational impacts if the information suffers any security compromises related to CIA triad characteristics 
 ##### Labeling
-- 
+- part of implementing security controls to protect classified data
+- usually four classification labels is the limit of manageability
+- i.e. high, moderate, low, and no restriction
 ##### Retention
-- 
+- data should not be kept past when it is beneficial 
+- regulatory compliance with data retention is key
+- key mistake is using the longest retention period for all org data rather than just what is required
 ##### Destruction
-- 
+- *remanence* is data that may be left on media after deleting and is a significant concern
+###### Means of Destruction
+- *Clearing* data from a system, writing multiple patterns of random data over disk and all storage, also called *over*
+- **
+- **
 
 ## See also
 - [Security Operations](sec-ops-index.md)
