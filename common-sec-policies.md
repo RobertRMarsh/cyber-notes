@@ -5,11 +5,16 @@ Status: #InProgress
 ### Common Security Policies
 - all policies should support laws, regulatory compliance, or contractual obligations of an org
 #### Data Handling Policy
-- 
+- data should be required to be handled differently based on who needs access to it, and if it can be made public or if it is classified or sensitive
+- should spell out any restrictions or legal definitions around relevant regulations or laws
+- data classification helps with ensuring compliance, i.e. classifying credit card data as confidential helps with adhering to *PCI DSS*
 #### Password Policy
-- 
+- defines expectations and commitment to secure access to systems/data
+- should outline standards required around password formulation, changeover expectations, secure password storage, and who needs to enforce and validate the policy
 #### AUP(Acceptable Use Policy)
-- 
+- defines accepted use of org's systems and networks
+- each employee/anyone accessing org systems and networks should be required to sign a copy
+- commonly included: data/system access, data retention, data disclosure, passwords (also covered under a password policy, internet usage, company hardware usage
 #### BYOD(Bring Your Own Device) Policy
 - org allows employees to pick their own devices/ use personal devices for business use
 - hardest from a security standpoint
@@ -28,7 +33,8 @@ Status: #InProgress
 - *GLBA(Gramm-Leach-Bliley Act)*
 #### Change Management Policy
 - Discipline of transitioning to a future state from a current state
-- 
+- defines a process to ensure changes made do not introduce issues or vulnerabilities to a system
  
 ## See also
 [Security Operations](sec-ops-index.md)
+[Change Management](change-mgmt.md)
