@@ -22,8 +22,8 @@ Status: #InProgress
 - [x] Domain 4
 	- [x] Notes
 	- [x] Flashcards
-- [ ] Domain 5
-	- [ ] Notes
-	- [ ] Flashcards
-- [ ] Post-assessment exam
+- [x] Domain 5
+	- [x] Notes
+	- [x] Flashcards
+- [x] Post-assessment exam
 - [ ] Certification exam
