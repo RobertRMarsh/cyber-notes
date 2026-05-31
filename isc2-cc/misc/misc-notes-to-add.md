@@ -17,5 +17,10 @@ Status: #InProgress
 - vulnerability scanning identifies known vulnerabilities in systems/applications but does not exploit them (which is penetration testing)
 - purpose of an SOC is to centrally monitor, detect, analyze and respond to security incidents
 - access control matrix maps the rights of subjects to objects 
+- third party risk management accesses and manages risk introduced by vendors and partners
+- WPA3 is the best wireless encryption with features like SAE(simultaneous authentication of equals) for better password security, forward secrecy, and individualized data encryption
+- WEP is the weakest wireless encryption and shouldn't be used
+- RISK is the likelihood a threat will exploit a vulnerability risk = likelihood x impact
+- Open design states that security should not be based on secrecy of design or implementation
 ## See also
 - link back to main index
