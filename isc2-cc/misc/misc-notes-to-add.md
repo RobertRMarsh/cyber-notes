@@ -32,6 +32,10 @@ Status: #InProgress
 - ICMP (Internet Control Message Protocol) is used for errors and diagnostics in IP networks, includes tools like ping and traceroute
 - clipping level is a threshold for abnormal activity
 - Network access control (NAC) enforces sec policies by checking device health ad compliance status prior to granting network access
-- SLE(Single loss expectancy) 
+- SLE(Single loss expectancy) = AV (asset value) x EF (exposure value)
+- hubs are layer 1 
+- Post incident analysis is when investigators determine root cause
+
+173 out of 200 (97%) 
 ## See also
 - link back to main index
