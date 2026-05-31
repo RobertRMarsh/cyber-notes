@@ -22,5 +22,7 @@ Status: #InProgress
 - WEP is the weakest wireless encryption and shouldn't be used
 - RISK is the likelihood a threat will exploit a vulnerability risk = likelihood x impact
 - Open design states that security should not be based on secrecy of design or implementation
+- session layer establishes manages and terminates sessions between applications
+- Evil twin is creating a fake access point that mimics a legitimate one LOOK AT DIFFERENCE BETWEEN THIS AND A ROGUE ACCESS POINT
 ## See also
 - link back to main index
