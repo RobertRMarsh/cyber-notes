@@ -13,6 +13,9 @@ Status: #InProgress
 - asset valuation is the process of analyzing how valuable an asset is to an org
 - patch management is regularly updating software to address known vulnerabilities
 - synchronous tokens generate one-time passwords that change periodically (30-60 seconds) RSA SecurID and authenticator apps
-- stateful firewalls track the connection state where stateless only examine ea
+- stateful firewalls track the connection state where stateless only examine each packet independently(usually only header info) 
+- vulnerability scanning identifies known vulnerabilities in systems/applications but does not exploit them (which is penetration testing)
+- purpose of an SOC is to centrally monitor, detect, analyze and respond to security incidents
+- access control matrix maps the rights of subjects to objects 
 ## See also
 - link back to main index
