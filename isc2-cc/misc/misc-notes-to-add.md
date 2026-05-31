@@ -28,5 +28,10 @@ Status: #InProgress
 - NETWORK TOPOLOGIES
 - MDM (Mobile device management)
 - NAT (network address translation) resolves private to public ipaddresses
+- WAP uses TKIP for encryption better than WEP, WPA uses AES, and WPA3 uses stronger security mechanisms, Tkip is deprecated and shouldn't be used today
+- ICMP (Internet Control Message Protocol) is used for errors and diagnostics in IP networks, includes tools like ping and traceroute
+- clipping level is a threshold for abnormal activity
+- Network access control (NAC) enforces sec policies by checking device health ad compliance status prior to granting network access
+- SLE(Single loss expectancy) 
 ## See also
 - link back to main index
