@@ -17,6 +17,8 @@ Status: #InProgress
 - using other tools that need physical access
 ##### WAN(Wide Area Network)
 - long distance connection between geographically remote networks
+##### Pan(Personal Area Network)
+- small networks such as Bluetooth or similar technologies
 #### WIFI
 - wireless networking
 - comes with additional vulnerabilities

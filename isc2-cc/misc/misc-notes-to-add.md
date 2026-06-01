@@ -2,10 +2,8 @@
 Status: #InProgress
 
 ## Notes
-- firewalls monitor/filter net traffic based on predefined rules, they don't encrypt traffic, assign IP addresses (that's DHCP) or resolve domain names (DNS)
 - two factor authentication requires two different authentication factors
 - step up authentication is requiring additional verification when users access sensitive functions/actions
-- NGFWs include deep packet inspection, intrusion prevention, application level control, and threat intelligence, they can block threats via signatures and behavioral analysis
 - MAC access controls are based on system administrator based on policies and security labels/classifications
 - transitive trust if a trusts b and b trusts c then a trusts c, this can result in risks
 - asset valuation is the process of analyzing how valuable an asset is to an org
@@ -31,7 +29,6 @@ Status: #InProgress
 - clipping level is a threshold for abnormal activity
 - Network access control (NAC) enforces sec policies by checking device health ad compliance status prior to granting network access
 - SLE(Single loss expectancy) = AV (asset value) x EF (exposure value)
-- hubs are layer 1 
 - Post incident analysis is when investigators determine root cause
 
 173 out of 200 (97%) 
