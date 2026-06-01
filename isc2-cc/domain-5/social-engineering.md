@@ -19,7 +19,9 @@ Status: #InProgress
 ##### Tailgating
 - following an authorized user to a restricted area
 	- physically, could be asking someone to hold the door
-	- technically, could be borrowing a phone or laptop to do something, but actually installs malicious software on it
+	- technically, could be borrowing a phone or laptop to do something, but actually installs malicious software on 
+##### Shoulder surfing
+- directly observing someone enter their credentials 
 
 ## See also
 - [Security Operations](sec-ops-index.md)

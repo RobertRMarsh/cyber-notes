@@ -18,7 +18,7 @@ Status: #InProgress
 ### IDS(Intrusion Prevention System)
 - *intrusion* an attacker thwarts security
 - IDSs automate the inspection of logs and real-time system attempts and system failures
-- nots not replace firewalls, works along side them, defense in depth
+- NIDS do not replace firewalls, they work along side them, creating defense in depth
 #### Types of IDS
 ##### HIDS(Host-based IDS)
 - monitors single device, examines events more detailed than *NIDS* 

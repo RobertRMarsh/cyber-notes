@@ -23,6 +23,8 @@ Status: #InProgress
 - NIST SP 800-30 Rev 1
 ### Zero Day
 - unknown system vulnerability that can avoid detection due to not fitting recognized attack signatures/patterns.
+### Simulated Testing
+- testing disaster recovery/business continuity procedures with simulated scenarios without disrupting normal operating procedures. it helps identify gaps and restoration capabilities.
 
 ## See also
 - [Business Continuity & DR](irbc-index.md)

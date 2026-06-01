@@ -13,6 +13,7 @@ Status: #InProgress
 ### Firewall
 - filters traffic, deployed between private network and the internet, but can be deployed between internal networks (segmentation)
 - filter traffic based on rules (ACLs)
+- 
 ### Server
 - Computer that provides info, resources, or data to other computers 
 - secured differently than typical endpoints

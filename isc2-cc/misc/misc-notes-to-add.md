@@ -2,8 +2,6 @@
 Status: #InProgress
 
 ## Notes
--  simulation testing involves testing disaster recovery/business continuity procedures with simulated scenarios without disruption normal operating procedures. it helps identify gaps and restoration capabilities.
-- shoulder surfing is directly observing someone enter credentials
 - firewalls monitor/filter net traffic based on predefined rules, they don't encrypt traffic, assign IP addresses (that's DHCP) or resolve domain names (DNS)
 - two factor authentication requires two different authentication factors
 - step up authentication is requiring additional verification when users access sensitive functions/actions
