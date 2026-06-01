@@ -39,7 +39,8 @@ Status: #InProgress
 ##### Common examples of Authentication
 - ATMS require;
 	- Your Card, *Something you have*
-	- Your PIN, *Something you know*
+	- Your PIN, *Something you know
+- Synchronous tokens: one-time passwords that change periodically (30-60 seconds) RSA SecurID and authenticator apps
 ### Non-repudiation
 - inability to deny taking an action
 - ensure responsibility for one's decisions

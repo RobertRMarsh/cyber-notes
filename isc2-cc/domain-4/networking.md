@@ -23,6 +23,15 @@ Status: #InProgress
 - wireless networking
 - comes with additional vulnerabilities
 - intrusions can happen at a distance
+##### Wireless Standards
+###### WEP 
+- The weakest wireless encryption and shouldn't be used
+###### WAP
+- Uses TKIP for encryption which is better than WEP, however TKIP is deprecated so it should not be used
+###### WPA2
+- Uses AES for encryption making it viable but not as desired as WPA3
+###### WAP3
+- The best wireless encryption with features like SAE(simultaneous authentication of equals) for better password security, forward secrecy, and individualized data encryption
 #### Ethernet
 - IEEE 802.3
 	- standard that defines wired connections of networked devices
