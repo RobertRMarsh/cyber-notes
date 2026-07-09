@@ -17,4 +17,4 @@ Status: #InProgress
 ## See also
 - [Security Principles](sec-principles-index.md)
 - [Security Controls Continued](isc2-cc/domain-3/sec-controls.md)
-- [Comparisons](comparisons/index.md)
+- [Comparisons](comp-index.md)

@@ -9,4 +9,4 @@ Status: #InProgress
  
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
-- [Comparisons](comparisons/index.md)
+- [Comparisons](comp-index.md)

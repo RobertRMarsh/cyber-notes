@@ -17,4 +17,4 @@ Status: #InProgress
 
 ## See also
 - [Access Controls](access-control-index.md)
-- [Comparisons](comparisons/index.md)
+- [Comparisons](comp-index.md)
