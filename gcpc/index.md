@@ -2,8 +2,8 @@
 Status: #InProgress
 
 ## Courses
-- link to mini-index 1
-- link to mini-index 2
+- Foundations of Cybersecurity
+- Play it Safe: Manage Security Risks
 - link to mini-index 3
  
 ## Overall Progress

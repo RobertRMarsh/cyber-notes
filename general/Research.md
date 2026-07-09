@@ -1,9 +1,0 @@
-- backup strategies 
-- TCP/IP model
-- access controls
-- data classifications
-- authentication factor categories
-- risk assessment stats, i.e. qualitative
-- network topology
-- incident response stages
-- SLE = AV(Asset Value) x EF(Exposure Factor) 

@@ -1,5 +1,5 @@
 2026-05-02 23:52
-Status: #InProgress
+Status: #Done 
 
 ## Domains
 - [Security Principles](domain-1/sec-principles-index.md)
@@ -26,4 +26,4 @@ Status: #InProgress
 	- [x] Notes
 	- [x] Flashcards
 - [x] Post-assessment exam
-- [ ] Certification exam
+- [x] Certification exam

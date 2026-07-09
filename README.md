@@ -6,8 +6,9 @@ Personal cybersecurity study notes. Organized by certifications and concept/topi
 - [Security+](security-plus/index.md) (COMPTIA Security+)
 - [Comparisons](comparisons/index.md) (Notes where Certifications disagree)
 - [Generic Notes](general/index.md) (Generic Notes related to cybersecurity outside of certifications)
+## Certifications Obtained
+- ISC2CC
 ## Certifications being Studied 
-- ISC2CC *(In Progress)*
 - GCPC *(In Progress)*
 - COMPTIA Security+ *(In Progress)*
 ## Disclaimer
