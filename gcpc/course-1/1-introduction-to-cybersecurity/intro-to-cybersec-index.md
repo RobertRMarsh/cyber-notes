@@ -4,7 +4,6 @@ Status: #InProgress
 ## Topics
 - [Cybersecurity](cybersecurity.md)
 - [Phishing Indicators](phishing-indicators.md)
-- [Benefits of Security](benefits-of-sec.md)
 - [Jobs](jobs.md)
 
 ## See also
