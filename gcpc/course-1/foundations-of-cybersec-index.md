@@ -2,7 +2,7 @@
 Status: #InProgress 
 
 ## Topics
-- [Introduction to Cybersecurity]
+- [Introduction to Cybersecurity](introduction-to-cybersecurity/intro-to-cybersec-index.md)
 - [Evolution of Cybersecurity]
 - [Protect against Threats, Risks, and Vulnerabilities]
 - [Cyber Tools and Programming Languages]
