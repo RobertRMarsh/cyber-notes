@@ -21,6 +21,7 @@ Status: #Done
 - keeping an organizations infrastructure secure from unauthorized access 
 #### Cloud Security
 - making sure assets in cloud are configured properly, only authorized access (growing subfield of cyber security)
+
 ## See also
 - [Introduction to Cybersecurity](intro-to-cybersec-index.md)
 - [GCPC](../../gcpc-index.md)
