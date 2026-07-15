@@ -4,7 +4,6 @@ Personal cybersecurity study notes. Organized by certifications and concept/topi
 - [GCPC](gcpc/0-gcpc-index.md) (Google Cybersecurity Professional Certification)
 - [ISC2-CC](isc2-cc/isc2cc-index.md) (ISC2 Certified In Cybersecurity)
 - [Security+](security-plus/sec-plus-index.md) (COMPTIA Security+)
-- [Comparisons](comparisons/comp-index.md) (Notes where Certifications disagree)
 - [Generic Notes](general/general-index.md) (Generic Notes related to cybersecurity outside of certifications)
 ## Certifications Obtained
 - ISC2CC
