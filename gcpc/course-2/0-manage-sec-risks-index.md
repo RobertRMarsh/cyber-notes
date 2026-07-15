@@ -8,4 +8,4 @@ Status: #InProgress
 - [Use Playbooks to Respond to Cyber Attacks](4-use-playbooks/0-use-playbooks-to-respond-to-cyber-attacks-index.md)
 
 ## See also
-- [GCPC](0-gcpc-index.md)
+- [GCPC](../0-gcpc-index.md)

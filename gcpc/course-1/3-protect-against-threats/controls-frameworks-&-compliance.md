@@ -89,4 +89,4 @@ Status: #InProgress
 ## See also
 - [Protect against Threats, Risks, and Vulnerabilities](0-protect-against-threats-risk-&-vulnerabilities-index.md)
 - 
-- [GCPC](0-gcpc-index.md)
+- [GCPC](../../0-gcpc-index.md)

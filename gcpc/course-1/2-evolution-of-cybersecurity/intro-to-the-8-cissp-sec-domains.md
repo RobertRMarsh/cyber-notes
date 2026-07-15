@@ -45,4 +45,4 @@ Status: #Done
 
 ## See also
 - [Evolution of Cybersecurity](0-evolution-of-cybersec-index.md)
-- [GCPC](0-gcpc-index.md)
+- [GCPC](../../0-gcpc-index.md)

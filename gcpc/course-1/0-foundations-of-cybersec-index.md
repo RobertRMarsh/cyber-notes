@@ -8,4 +8,4 @@ Status: #InProgress
 - [Cyber Tools and Programming Languages](4-cyber-tools-&-programming-languages/0-cyber-tools-&-programming-languages-index.md)
 
 ## See also
-- [GCPC](0-gcpc-index.md)
+- [GCPC](../0-gcpc-index.md)
