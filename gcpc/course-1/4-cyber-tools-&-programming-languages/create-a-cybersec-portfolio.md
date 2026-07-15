@@ -28,5 +28,5 @@ Status: #InProgress
 - Creating or revising a resume
 
 ## See also
-- [Cyber Tools and Programming Languages](cyber-tools-&-programming-languages-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Cyber Tools and Programming Languages](0-cyber-tools-&-programming-languages-index.md)
+- [GCPC](0-gcpc-index.md)

@@ -44,5 +44,5 @@ Status: #Done
 -  Using secure coding practices
 
 ## See also
-- [Evolution of Cybersecurity](evolution-of-cybersec-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Evolution of Cybersecurity](0-evolution-of-cybersec-index.md)
+- [GCPC](0-gcpc-index.md)

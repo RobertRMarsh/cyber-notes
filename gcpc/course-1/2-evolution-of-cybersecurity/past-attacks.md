@@ -21,5 +21,5 @@ Status: #InProgress
 - CERTs (Computer Emergency Response Teams) were established after this to respond to similar incidents, their role in modern days has expanded
 
 ## See also
-- [Evolution of Cybersecurity](evolution-of-cybersec-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Evolution of Cybersecurity](0-evolution-of-cybersec-index.md)
+- [GCPC](0-gcpc-index.md)

@@ -15,5 +15,5 @@ Status: #InProgress
 	- less definitive but can still raise suspicious
 
 ## See also
-- [Introduction to Cybersecurity](intro-to-cybersec-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Introduction to Cybersecurity](0-intro-to-cybersec-index.md)
+- [GCPC](0-gcpc-index.md)

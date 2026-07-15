@@ -1,7 +1,7 @@
 # Cybersecurity Notes
 Personal cybersecurity study notes. Organized by certifications and concept/topic. Using as a personal knowledge base while working towards my B.S. in Information Systems and Cybersecurity and industry certifications.
 ## Structure
-- [GCPC](gcpc/gcpc-index.md) (Google Cybersecurity Professional Certification)
+- [GCPC](0-gcpc-index.md) (Google Cybersecurity Professional Certification)
 - [ISC2-CC](isc2-cc/isc2cc-index.md) (ISC2 Certified In Cybersecurity)
 - [Security+](security-plus/sec-plus-index.md) (COMPTIA Security+)
 - [Comparisons](comparisons/comp-index.md) (Notes where Certifications disagree)

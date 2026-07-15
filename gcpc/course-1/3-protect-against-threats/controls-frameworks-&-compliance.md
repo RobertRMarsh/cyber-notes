@@ -87,5 +87,6 @@ Status: #InProgress
 - 27000 family of standards manages the security of assets
 
 ## See also
-- [Protect against Threats, Risks, and Vulnerabilities](protect-against-threats-risk-&-vulnerabilities-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Protect against Threats, Risks, and Vulnerabilities](0-protect-against-threats-risk-&-vulnerabilities-index.md)
+- 
+- [GCPC](0-gcpc-index.md)

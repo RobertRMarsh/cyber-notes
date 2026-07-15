@@ -21,5 +21,5 @@ Status: #InProgress
 	- baseline to manage short and long term risk
 
 ## See also
-- [Protect against Threats, Risks, and Vulnerabilities](protect-against-threats-risk-&-vulnerabilities-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Protect against Threats, Risks, and Vulnerabilities](0-protect-against-threats-risk-&-vulnerabilities-index.md)
+- [GCPC](0-gcpc-index.md)

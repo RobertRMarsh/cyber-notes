@@ -7,5 +7,5 @@ Status: #InProgress
 - [Controls, Frameworks and Compliance](controls-frameworks-&-compliance.md)
 
 ## See also
-- [Foundations of Cybersecurity](../foundations-of-cybersec-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Foundations of Cybersecurity](0-foundations-of-cybersec-index.md)
+- [GCPC](0-gcpc-index.md)

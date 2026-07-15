@@ -23,5 +23,5 @@ Status: #Done
 - making sure assets in cloud are configured properly, only authorized access (growing subfield of cyber security)
 
 ## See also
-- [Introduction to Cybersecurity](intro-to-cybersec-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Introduction to Cybersecurity](0-intro-to-cybersec-index.md)
+- [GCPC](0-gcpc-index.md)

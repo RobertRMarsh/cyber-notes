@@ -9,5 +9,5 @@ Status: #InProgress
 - A playbook is a manual that provides details about *any* operational action
 
 ## See also
-- [Cyber Tools and Programming Languages](cyber-tools-&-programming-languages-index.md)
-- [GCPC](../../gcpc-index.md)
+- [Cyber Tools and Programming Languages](0-cyber-tools-&-programming-languages-index.md)
+- [GCPC](0-gcpc-index.md)
