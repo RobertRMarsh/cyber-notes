@@ -1,9 +1,9 @@
 2026-07-14 12:52
 Status: #InProgress 
 
-## Notes
-### Past Attacks
-#### Brain Virus
+# Notes
+## Past Attacks
+### Brain Virus
 - Made in 1986 by Alvi brothers
 - Meant to track pirated copies of medical software
 - Unexpectedly infected computers that used the software and any disk inserted into the computer
@@ -11,7 +11,7 @@ Status: #InProgress
 - Not meant to destroy software or data or hardware
 - Slowed productivity and impacted business operations
 - Significantly changed computer industry, shift towards security/maintain productivity
-#### Morris Worm
+### Morris Worm
 - Made in 1988 by Robert Morris
 - Meant to assess size of the internet
 - Installed itself onto computers to tally the number of devices connected to the internet

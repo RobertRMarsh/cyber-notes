@@ -1,34 +1,34 @@
 2026-07-14 12:55
 Status: #InProgress 
 
-## Notes
-### Understanding Attackers
-#### APTs (Advanced Persistent Threats)
+# Notes
+## Understanding Attackers
+### APTs (Advanced Persistent Threats)
 - often state actors
 - research their targets
 - significant expertise
 - damage key infrastructure 
 - gain access to intellectual property
-#### Insider threats
+### Insider threats
 - Sabotage 
 - Corruption
 - Espionage
 - Unauthorized data access or leaks
-#### Hackers
+### Hackers
 - use computers to gain access to computer systems, networks or data
-#### Hacktivists
+### Hacktivists
 - Demonstrations
 - Propaganda
 - Social Change Campaigns
 - Fame
-#### Authorized Hackers
+### Authorized Hackers
 - ethical hackers
 - adhere to person ethics and law
 - protect people from malicious threat actors
-#### Semi-authorized Hackers
+### Semi-authorized Hackers
 - researchers
 - find vulnerabilities but do not take advantage of them
-#### Unauthorized Hackers
+### Unauthorized Hackers
 - malicious threat actors
 - do not follow law
 - collect confidential data for profit 

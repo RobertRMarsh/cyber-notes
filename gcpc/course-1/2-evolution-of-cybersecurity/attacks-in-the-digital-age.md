@@ -1,9 +1,9 @@
 2026-07-14 12:54
 Status: #InProgress 
 
-## Notes
-### Attacks in the Digital Age
-#### LoveLetter Attack
+# Notes
+## Attacks in the Digital Age
+### LoveLetter Attack
 - Made in 2000 by Onel De Guzman 
 - Malware Meant to steal software
 - Subject line "I Love You", attachment "Love Letter For You"   
@@ -13,7 +13,7 @@ Status: #InProgress
 - 45 Million computers infected
 - 10 Billion $ in damages
 - Popularized social engineering
-#### Equifax Breach
+### Equifax Breach
 - In 2017, attackers breached Equifax records
 - 143 million customer records were stolen
 - Roughly 40% of Americans affected
