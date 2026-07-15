@@ -2,8 +2,8 @@
 Status: #InProgress
 
 ## Courses
-- [Foundations of Cybersecurity](0-foundations-of-cybersec-index.md)
-- [Play it Safe: Manage Security Risks](0-manage-sec-risks-index.md)
+- [Foundations of Cybersecurity](course-1/0-foundations-of-cybersec-index.md)
+- [Play it Safe: Manage Security Risks](course-2/0-manage-sec-risks-index.md)
  
 ## Overall Progress
 - [x] Course 1
