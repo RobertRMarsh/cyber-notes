@@ -16,4 +16,4 @@ Status: #InProgress
 
 ## See also
 - [Introduction to Cybersecurity](0-intro-to-cybersec-index.md)
-- [GCPC](0-gcpc-index.md)
+- [GCPC](../../0-gcpc-index.md)
