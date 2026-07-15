@@ -88,5 +88,5 @@ Status: #InProgress
 
 ## See also
 - [Protect against Threats, Risks, and Vulnerabilities](0-protect-against-threats-risk-&-vulnerabilities-index.md)
-- 
+- [Security Frameworks and Controls](../../course-2/2-security-frameworks-&-controls/0-security-frameworks-&-controls-index.md)
 - [GCPC](../../0-gcpc-index.md)
