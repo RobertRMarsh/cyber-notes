@@ -2,10 +2,8 @@
 Status: #InProgress 
 
 ## Topics
-- []()
-- []()
-- []()
-- []()
+- [Tools to Protect Business Operations](tools-to-protect-business-operations.md)
+- [Create a Cybersecurity Portfolio](create-a-cybersec-portfolio.md)
 
 ## See also
 - [Foundations of Cybersecurity](../foundations-of-cybersec-index.md)
