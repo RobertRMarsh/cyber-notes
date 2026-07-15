@@ -6,7 +6,6 @@ Status: #InProgress
 - [NIST Frameworks](nist-frameworks.md)
 - [OWASP Security Principles](owasp-sec-principles.md)
 - [Plan a Security Audit](plan-a-security-audit.md)
-- [Conduct a Security Audit](conduct-a-sec-audit.md)
 
 ## See also
 - [Play it Safe: Manage Security Risks](../0-manage-sec-risks-index.md)
