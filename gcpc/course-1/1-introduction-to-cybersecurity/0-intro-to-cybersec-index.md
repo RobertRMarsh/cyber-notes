@@ -7,5 +7,5 @@ Status: #InProgress
 - [Jobs](jobs.md)
 
 ## See also
-- [Foundations of Cybersecurity](0-foundations-of-cybersec-index.md)
-- [GCPC](0-gcpc-index.md)
+- [Foundations of Cybersecurity](../0-foundations-of-cybersec-index.md)
+- [GCPC](../../0-gcpc-index.md)
