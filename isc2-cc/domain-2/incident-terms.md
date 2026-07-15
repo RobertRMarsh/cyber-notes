@@ -28,4 +28,3 @@ Status: #InProgress
 
 ## See also
 - [Business Continuity & DR](irbc-index.md)
-- [Comparisons](comp-index.md)

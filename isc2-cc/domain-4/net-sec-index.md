@@ -6,10 +6,8 @@ Status: #InProgress
 - [Network Devices](network-devices.md)
 - [Network Device Addresses](net-addresses.md)
 - [Networking Models](net-models.md)
-- [Network Threats & Attacks](net-threats.md)
 - [Secure Protocols & Remote Access](sec-protocols-remote-access.md)
 - [Secure Network Architecture](sec-net-architecture.md)
  
 ## See also
 - [ISC2-CC](../isc2cc-index.md)
-- [Comparisons](comp-index.md)

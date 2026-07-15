@@ -21,4 +21,3 @@ Status: #InProgress
  
 ## See also
 - [Security Principles](sec-principles-index.md)
-- [Comparisons](comp-index.md)

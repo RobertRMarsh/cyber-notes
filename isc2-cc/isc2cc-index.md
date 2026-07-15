@@ -4,7 +4,7 @@ Status: #Done
 ## Domains
 - [Security Principles](domain-1/sec-principles-index.md)
 - [Business Continuity & DR](domain-2/irbc-index.md)
-- [Access Controls](domain-3/sec-principles-index.md)
+- [Access Controls](domain-3/access-control-index.md)
 - [Network Security](domain-4/net-sec-index.md)
 - [Security Operations](domain-5/sec-ops-index.md)
 
