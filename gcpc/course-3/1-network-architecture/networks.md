@@ -18,6 +18,8 @@ Status: #InProgress
 - Spans a large geographical area
 ### Cloud Networks
 - Servers/devices that store the data and resources in remote data centers that can be accessed via the internet
+- Avoids having to maintain and store network hardware
+- Available on-demand and offer scalability
 
 ## See also
 - [Network Architecture](0-network-architecture-index.md)
