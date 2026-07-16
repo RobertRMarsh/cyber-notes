@@ -16,6 +16,8 @@ Status: #InProgress
 - Spans a small area
 ### WAN 
 - Spans a large geographical area
+### Cloud Networks
+- Servers/devices that store the data and resources in remote data centers that can be accessed via the internet
 
 ## See also
 - [Network Architecture](0-network-architecture-index.md)
