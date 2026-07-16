@@ -3,9 +3,6 @@ Status: #InProgress
 
 ## Topics
 - [Playbooks](playbooks.md)
-- []()
-- []()
-- []()
 
 ## See also
 - [Play it Safe: Manage Security Risks](../0-manage-sec-risks-index.md)
